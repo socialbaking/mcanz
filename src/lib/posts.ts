@@ -1,7 +1,7 @@
 
 import { readOne, readAll } from "./markdoc/read";
 import { blog } from "./markdoc/frontmatter.schema";
-import { SITE_URL } from "../config";
+import {SITE_BANNER_URL, SITE_URL} from "../config";
 
 export async function getPostSlugs() {
     const posts = await readAll({
@@ -40,7 +40,7 @@ export async function getPost(slug: string) {
     const ogImageAbsoluteUrl =
          frontmatter.ogImagePath
             ? new URL(frontmatter.ogImagePath, SITE_URL).toString()
-            : undefined;
+            : SITE_BANNER_URL;
 
     return {
         content,

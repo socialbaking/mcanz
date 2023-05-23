@@ -5,6 +5,7 @@ import {
   SITE_DESCRIPTION,
   SITE_URL,
   TWITTER_HANDLE,
+  SITE_BANNER_URL,
 } from "../config";
 
 export interface Props {
@@ -18,10 +19,10 @@ const { meta, og, twitter } = getPageMeta({
   title: title || SITE_TITLE,
   description: description || SITE_DESCRIPTION,
   baseUrl: SITE_URL,
-  ogImageAbsoluteUrl: `${SITE_URL}/images/og.png`,
+  ogImageAbsoluteUrl: SITE_BANNER_URL,
   ogImageAltText: description || SITE_DESCRIPTION || "",
-  ogImageWidth: 1200,
-  ogImageHeight: 630,
+  ogImageWidth: 700,
+  ogImageHeight: 319,
   siteOwnerTwitterHandle: TWITTER_HANDLE,
   contentAuthorTwitterHandle: TWITTER_HANDLE,
 });
