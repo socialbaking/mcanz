@@ -6,7 +6,7 @@
 
 /* ------ THEMING - Light Mode ------ */
 :root {
-	--palette-primary: #4f46e5;
+	--palette-primary: rgb(115, 255, 192);
 
 	--text: #1e293b;
 	--text-muted: #64748b;
@@ -24,7 +24,7 @@
 /* ------ THEMING - Dark Mode ------ */
 @media (prefers-color-scheme: dark) {
 	:root {
-		--palette-primary: #20bdff;
+		--palette-primary: rgb(115, 255, 192);
 
 		--text: #d2d3d7;
 		--text: #d4d4d8;
