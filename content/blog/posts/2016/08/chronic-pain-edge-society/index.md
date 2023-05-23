@@ -5,7 +5,7 @@ categories:
   - "patient-stories"
 ---
 
-> I don't and I won't take cannabis till they legalize it for medical purposes. ![Narcotics](http://mcawarenessnz.org/wp-content/uploads/2016/08/narcotics.jpg)
+> I don't and I won't take cannabis till they legalize it for medical purposes. ![Narcotics](/wp-content/uploads/2016/08/narcotics.jpg)
 > 
 > At age 16 I was assaulted, and left partially paralyzed for several hours. Ironically they thought I was lying about the pain, paralysis and then numbness - it was hours before I got pain relief and even then it was only paracetamol. After four days in hospital they decided they would give me a more robust pain relief, it was too late.
 > 

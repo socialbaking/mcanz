@@ -16,7 +16,7 @@ tags:
 
 The plan is to grow cannabis under a Home Office licence for the production of cannabis oil, both as a dietary supplement and for the development of medical products.  To begin with, a low-THC crop of industrial hemp will be planted.  We will be using the finola strain, originally developed in Finland and known for its short stature and early flowering. Unlike hemp grown for fibre, finola is usually grown for seed and only reaches a height of 160 – 180 cm but we will be removing male plants before they produce pollen and cultivating the female plants to produce the maximum yield of oil from their flowering tops.
 
-[![Finola Industrial Hemp](https://mcanz.org.nz/wp-content/uploads/2022/04/finola-hemp.jpg)](https://peterreynolds.wordpress.com/2016/04/23/clear-and-groglo-establish-first-uk-clinical-trials-on-cannabis-for-chronic-pain/finola-hemp/)
+[![Finola Industrial Hemp](/wp-content/uploads/2022/04/finola-hemp.jpg)](https://peterreynolds.wordpress.com/2016/04/23/clear-and-groglo-establish-first-uk-clinical-trials-on-cannabis-for-chronic-pain/finola-hemp/)
 
 Finola Industrial Hemp
 
@@ -24,7 +24,7 @@ The low-THC oil will be marketed as a dietary supplement, commonly known as CBD 
 
 Cultivation will be in glasshouses supplemented with LED lighting.  GroGlo already has an established glasshouse facility in the east of England.  Initial trials will experiment with adjusting the LED technology to provide a changing blend of light wavelengths at different stages of plant growth.  This is GroGlo’s area of expertise -combining LED lighting and plant sciences, including existing relationships with some of Europe’s top universities. Professor Mick Fuller, GroGlo’s director of plant science, will lead this research and development process.
 
-[![Professor Mick Fuller](https://mcanz.org.nz/wp-content/uploads/2022/04/prof-mick-fuller.jpg)](https://peterreynolds.wordpress.com/2016/04/23/clear-and-groglo-establish-first-uk-clinical-trials-on-cannabis-for-chronic-pain/prof-mick-fuller/)
+[![Professor Mick Fuller](/wp-content/uploads/2022/04/prof-mick-fuller.jpg)](https://peterreynolds.wordpress.com/2016/04/23/clear-and-groglo-establish-first-uk-clinical-trials-on-cannabis-for-chronic-pain/prof-mick-fuller/)
 
 Professor Mick Fuller
 
@@ -44,7 +44,7 @@ We believe the best option is a vapouriser device and our intention is to sourc
 
 We anticipate that clinical trials for the use of cannabis oil in treating chronic pain could start within two years.  We want to compare different oils, ranging from high-CBD to equal ratios of THC:CBD and high-THC content. Prior to that we have to overcome the challenges of cultivation, oil extraction, vapouriser development and assemble the necessary research team and gain ethical approval for the trials.  Recruitment for the trials will start in about 18 months time.  If you wish to be considered please email ‘paintrials@clear-uk.org’ with brief details of your condition (no more than 100 words). Do not expect to hear anything for at least 12 months but your details will be passed to the research team as a potential candidate.
 
-[![Mike Harlington, Managing Director of GroGlo](https://mcanz.org.nz/wp-content/uploads/2022/04/mike-harlington1.png)](https://peterreynolds.wordpress.com/2016/04/23/clear-and-groglo-establish-first-uk-clinical-trials-on-cannabis-for-chronic-pain/mike-harlington/)
+[![Mike Harlington, Managing Director of GroGlo](/wp-content/uploads/2022/04/mike-harlington1.png)](https://peterreynolds.wordpress.com/2016/04/23/clear-and-groglo-establish-first-uk-clinical-trials-on-cannabis-for-chronic-pain/mike-harlington/)
 
 Mike Harlington, Managing Director of GroGlo
 

@@ -17,7 +17,7 @@ Post by Rebecca (Redwood) Reider
 
 HOW TO BRING MEDICINAL CANNABIS INTO NEW ZEALAND, LEGALLY
 
-\[caption id="attachment\_3402" align="alignright" width="300"\]![Rebecca_reider](http://mcawarenessnz.org/wp-content/uploads/2016/08/rebecca_reider-300x150.jpg) Arik Reiss and Rebecca Reider at Auckland International Airport with Reider's medicinal cannabis prescription, which she brought through customs. Photo: Druglawed / Facebook\[/caption\]
+\[caption id="attachment\_3402" align="alignright" width="300"\]![Rebecca_reider](/wp-content/uploads/2016/08/rebecca_reider-300x150.jpg) Arik Reiss and Rebecca Reider at Auckland International Airport with Reider's medicinal cannabis prescription, which she brought through customs. Photo: Druglawed / Facebook\[/caption\]
 
 Before bringing my meds from Hawaii to NZ recently, I did a lot of research on how to do it legally. Please SHARE this info with anyone who may benefit (and don't believe everything you see on TV!)
 

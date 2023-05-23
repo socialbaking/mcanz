@@ -15,7 +15,7 @@ Medicinal cannabis will become legal, but strictly controlled from November thi
 
 The final decision was published on Wednesday, paving the way for the drug to be legalised for medicinal use, as the federal government works towards creating a national regulator.
 
-\[caption id="attachment\_3427" align="alignright" width="300"\]![Medicinal cannabis will become legal, but strictly controlled, under a final TGA decision reached this week. Photo: Michel Porro](http://mcawarenessnz.org/wp-content/uploads/2016/09/nug-300x168.jpg) Medicinal cannabis will become legal, but strictly controlled, under a final TGA decision reached this week. Photo: Michel Porro\[/caption\]
+\[caption id="attachment\_3427" align="alignright" width="300"\]![Medicinal cannabis will become legal, but strictly controlled, under a final TGA decision reached this week. Photo: Michel Porro](/wp-content/uploads/2016/09/nug-300x168.jpg) Medicinal cannabis will become legal, but strictly controlled, under a final TGA decision reached this week. Photo: Michel Porro\[/caption\]
 
 Clinical trials have shown moderate quality evidence the substance can help treat chronic pain and spasticity and potentially reduce chemotherapy-related nausea.
 
@@ -27,7 +27,7 @@ But she said campaigners and patients waiting to obtain medicinal cannabis legal
 
 Mrs Haslam said she was also concerned the proposed legal cannabis industry could be "so bound up in red tape" that may it not be viable.
 
-\[caption id="attachment\_1930" align="alignright" width="300"\]![Lucy, with her Son Dan Haslam, who succumbed to bowel cancer](http://mcawarenessnz.org/wp-content/uploads/2015/10/lucy-300x200.jpg) Lucy, with her Son Dan Haslam, who succumbed to bowel cancer\[/caption\]
+\[caption id="attachment\_1930" align="alignright" width="300"\]![Lucy, with her Son Dan Haslam, who succumbed to bowel cancer](/wp-content/uploads/2015/10/lucy-300x200.jpg) Lucy, with her Son Dan Haslam, who succumbed to bowel cancer\[/caption\]
 
 "My fear is that the industry will become so expensive that patients won't be able to access a legal supply at an affordable price," she said.
 

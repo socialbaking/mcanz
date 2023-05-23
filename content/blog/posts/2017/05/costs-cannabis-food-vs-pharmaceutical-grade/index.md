@@ -15,7 +15,7 @@ tags:
   - "tilray"
 ---
 
-[![](http://mcawarenessnz.org/wp-content/uploads/2017/05/CBP-costs.png)](http://mcawarenessnz.org/wp-content/uploads/2017/05/MCANZ-costs-1.png)
+[![](/wp-content/uploads/2017/05/CBP-costs.png)](/wp-content/uploads/2017/05/MCANZ-costs-1.png)
 
 One of the key barriers to improved access to Cannabis Based Products in the current framework is cost.  Sativex, available on-label for MS, has less than 12 people using it in NZ for that purpose, out of a patient population of 3000+ where trials demonstrate that a little over 40% of medium to severe patients gain sustained clinical benefit, there are hundreds of patients with this one condition who are missing out on a better life due to cost.
 

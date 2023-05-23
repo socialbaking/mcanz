@@ -13,13 +13,13 @@ tags:
   - "scheme"
 ---
 
-![](https://mcanz.org.nz/wp-content/uploads/2022/04/d1d284f5-ed8c-2b8d-13c4-67c057f3782d.jpg) It is now over 1300 days since the Labour government was formed, and could act on their campaign promise to "legalize within 100 days"
+![](/wp-content/uploads/2022/04/d1d284f5-ed8c-2b8d-13c4-67c057f3782d.jpg) It is now over 1300 days since the Labour government was formed, and could act on their campaign promise to "legalize within 100 days"
 
 To date, no new products are available under the "new scheme" merely existing products uprated to "approved".
 
 The new scheme insists on a pharmaceutical (GMP) quality standard for Cannabis that to date, only Tilray has been able to meet, and NO New Zealand company has been licensed for (GMP) yet, despite tens of millions of dollars of investment, perhaps hundreds of millions across the sector.
 
-In 2018, MCANZ [advocated strongl](https://mcanz.org.nz/wp-content/uploads/2018/09/Annex-A-Medical-Cannabis-in-Aotearoa-MCANZ-Policy-booklet.pdf)y for lower "Near Pharmaceutical" standard as used in Canada (GPP). Feedback from Industry experts in Canada is that facility setup, licensing, time to market and cost per gram would all be lower than what the government ultimately settled upon.
+In 2018, MCANZ [advocated strongl](/wp-content/uploads/2018/09/Annex-A-Medical-Cannabis-in-Aotearoa-MCANZ-Policy-booklet.pdf)y for lower "Near Pharmaceutical" standard as used in Canada (GPP). Feedback from Industry experts in Canada is that facility setup, licensing, time to market and cost per gram would all be lower than what the government ultimately settled upon.
 
 During this time affordability has not been addressed, with the schemes settings ensuring products will be late and expensive. To Labour's credit, affordability was a genuine concern as [revealed in OIAs](https://twitter.com/tstopford/status/1392460731556057097) released to [The Hemp Foundation](https://www.thehempfoundation.org.nz/), however, MOH attempted to bury these facts in [redactions](https://twitter.com/tstopford/status/1392460731556057097/photo/4) that were successfully repealed with complaints to the ombudsman.
 

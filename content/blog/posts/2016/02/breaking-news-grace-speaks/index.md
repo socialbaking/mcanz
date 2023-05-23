@@ -9,7 +9,7 @@ tags:
   - "one-dollar-warriors"
 ---
 
-\[caption id="attachment\_2733" align="alignnone" width="224"\][![Grace, awake after a scary few days.](http://mcawarenessnz.org/wp-content/uploads/2016/02/grace-in-hospital.jpg?w=224)](http://mcawarenessnz.org/wp-content/uploads/2016/02/grace-in-hospital.jpg) Grace, awake after a scary few days.\[/caption\]
+\[caption id="attachment\_2733" align="alignnone" width="224"\][![Grace, awake after a scary few days.](/wp-content/uploads/2016/02/grace-in-hospital.jpg?w=224)](/wp-content/uploads/2016/02/grace-in-hospital.jpg) Grace, awake after a scary few days.\[/caption\]
 
 Grace Yeats, the young girl who suffered from a mystery illness at the age of 10, and had earlier this year been helped by "[One Dollar Warriors](https://givealittle.co.nz/cause/onedollarwarriorsfightforgrace)" by raising nearly $30000 dollars for Sativex, has had a rough week, being rushed up to Starship Hospital with a suspected failure of a medical device.
 

@@ -32,8 +32,8 @@ To date, a mere handful of patients have received govt funding in NZ.
 
 MCANZ would like to highlight that in Germany, health insurance coverage is massive, with the equivalent of tens of millions of NZ dollars in subsidies every month. "Germany really shows what's possible, with health insurers having a role similar to PHARMAC, they have a high success rate for patient approvals, and provide generous support that is sure to leave New Zealand patients envious," Says MCANZ Founder and Trustee Shane Le Brun.
 
-![](https://mcanz.org.nz/wp-content/uploads/2022/04/8bf65d97-0ba5-4caa-9479-ecfee7bf0e5a.png) _Figure 1, German health insurers fund tens of millions of dollars of Medical Cannabis on a monthly basis, Source, Prohibition partners_
+![](/wp-content/uploads/2022/04/8bf65d97-0ba5-4caa-9479-ecfee7bf0e5a.png) _Figure 1, German health insurers fund tens of millions of dollars of Medical Cannabis on a monthly basis, Source, Prohibition partners_
 
 “The barrier to medicinal access is primarily the cost. Other countries have a wider range of medicinal cannabis products and their pricing is more competitive." "Costs for legal medical cannabis need to be lower than the current black-market costs, to avoid patients having to revert to the latter for financial reasons” Says MCANZ Coordinator and Registered Nurse Jacinta Newport.
 
-For more information on how the adult-use referendum intersects with the needs of patients, visit the [MCANZ referendum FAQ](https://mcanz.org.nz/referendum-faq/)
+For more information on how the adult-use referendum intersects with the needs of patients, visit the [MCANZ referendum FAQ](/referendum-faq/)

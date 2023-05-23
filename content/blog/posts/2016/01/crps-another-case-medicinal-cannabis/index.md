@@ -14,7 +14,7 @@ This week’s story is from someone who has Complex Regional Pain Syndrome or CR
 
 Below is a chart of comparison pain levels, the pain vs child birth can be confirmed by those who develop the condition later in life, just as my wife can confirm that Flare ups of her back pain easily surpass the pain of her child birth. CRPS if picked up early can be reversed with intensive management, however once it has progressed to a certain point, there is no cure, and it normally it will gradually deteriorate.  This condition is a poster child for both compassionate use of Medicinal Cannabis, but also Euthanasia, as there are many with advanced CRPS who seriously consider suicide, if not act upon it.
 
-[![painscale](https://mcanz.org.nz/wp-content/uploads/2022/04/painscale.jpg)](https://yournz.files.wordpress.com/2015/02/painscale.jpg)
+[![painscale](/wp-content/uploads/2022/04/painscale.jpg)](https://yournz.files.wordpress.com/2015/02/painscale.jpg)
 
 > What is Medical Cannabis to me. Its being able to have a better quality of life – to function – to laugh – to enjoy the small things in life & medical marijuana helps me achieve that. I have lived (survived) 15yrs with CRPS Complex Regional Pain Syndrome the highest rated pain condition above unmediated labour even amputation of a digit. An accident / injury / surgery caused a switch in my nervous system causing inflammation.
 > 

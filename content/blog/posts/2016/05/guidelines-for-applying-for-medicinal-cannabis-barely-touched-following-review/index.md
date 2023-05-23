@@ -22,7 +22,7 @@ Kelly continues to illegally source her own drugs after her bid for medicinal ca
 
 "I've been left to buy my own cancer treatment and take illegal cannabis - the whole system is stuffed."
 
-\[caption id="attachment\_3077" align="alignright" width="620"\]![erminally ill former union boss Helen Kelly continues to source cannabis for pain relief illegally.](http://mcawarenessnz.org/wp-content/uploads/2016/05/1463638678259.jpg) erminally ill former union boss Helen Kelly continues to source cannabis for pain relief illegally.\[/caption\]
+\[caption id="attachment\_3077" align="alignright" width="620"\]![erminally ill former union boss Helen Kelly continues to source cannabis for pain relief illegally.](/wp-content/uploads/2016/05/1463638678259.jpg) erminally ill former union boss Helen Kelly continues to source cannabis for pain relief illegally.\[/caption\]
 
 The guidelines for that application process have been reviewed and on Thursday Associate Minister of Health Peter Dunne announced only minor changes, based on the advice of medical experts.
 
@@ -42,7 +42,7 @@ His position of a "robust and scientific" approach to cannabis has not changed, 
 
 "It is my hope that by releasing this feedback it will go some way to balancing out the irresponsible and ill-informed messages being passed off as fact, and provide a degree of reassurance to those who are genuinely looking for respite to significant health issues," he said.
 
-\[caption id="attachment\_3076" align="alignright" width="620"\]![Associate Health Minister Peter Dunne says he will continue to take a "robust and scientific'' approach to cannabis-based products.](http://mcawarenessnz.org/wp-content/uploads/2016/05/1463638678259b.jpg) Associate Health Minister Peter Dunne says he will continue to take a "robust and scientific'' approach to cannabis-based products.\[/caption\]
+\[caption id="attachment\_3076" align="alignright" width="620"\]![Associate Health Minister Peter Dunne says he will continue to take a "robust and scientific'' approach to cannabis-based products.](/wp-content/uploads/2016/05/1463638678259b.jpg) Associate Health Minister Peter Dunne says he will continue to take a "robust and scientific'' approach to cannabis-based products.\[/caption\]
 
 But Kelly says the ministry should be compiling a list of cannabis-based products for doctors to prescribe, other than Sativex, which Kelly says isn't right for her needs.
 

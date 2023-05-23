@@ -9,9 +9,9 @@ tags:
   - "sativex"
 ---
 
-\[caption id="attachment\_2993" align="alignleft" width="281"\]![Benjamin recovering from a bad bout of Seizures.](http://mcawarenessnz.org/wp-content/uploads/2016/04/Benjamin2.jpg) Benjamin recovering from a bad bout of Seizures.\[/caption\]
+\[caption id="attachment\_2993" align="alignleft" width="281"\]![Benjamin recovering from a bad bout of Seizures.](/wp-content/uploads/2016/04/Benjamin2.jpg) Benjamin recovering from a bad bout of Seizures.\[/caption\]
 
-\[caption id="attachment\_2992" align="alignright" width="344"\]![Benjamin in happier times.](http://mcawarenessnz.org/wp-content/uploads/2016/04/benjamin.jpg) Benjamin in happier times.\[/caption\]
+\[caption id="attachment\_2992" align="alignright" width="344"\]![Benjamin in happier times.](/wp-content/uploads/2016/04/benjamin.jpg) Benjamin in happier times.\[/caption\]
 
 Benjamin was a happy healthy two year old boy until he started showing signs of seizure activity.
 

@@ -13,7 +13,7 @@ tags:
   - "who"
 ---
 
-![](https://mcanz.org.nz/wp-content/uploads/2022/04/logo-who-300x120.jpg)
+![](/wp-content/uploads/2022/04/logo-who-300x120.jpg)
 
 Late last year, the World Health Organisation (WHO) held the 41st meeting of the Expert Committee of Drug Dependence (ECDD). This was a historic meeting as it was the first review of Cannabis scheduling in international treaties since before the existence of the UN or WHO.
 

@@ -11,7 +11,7 @@ tags:
   - "sushila"
 ---
 
-\[caption id="attachment\_373" align="alignnone" width="300"\]![](http://mcawarenessnz.org/wp-content/uploads/2015/05/sativexpack-1-300x199.png) Sushila Butt has petitioned Parliament over treatment for her 21 year old daughter and her ability to access the cannabinoid medication known as Sativex (Getty Images)\[/caption\]
+\[caption id="attachment\_373" align="alignnone" width="300"\]![](/wp-content/uploads/2015/05/sativexpack-1-300x199.png) Sushila Butt has petitioned Parliament over treatment for her 21 year old daughter and her ability to access the cannabinoid medication known as Sativex (Getty Images)\[/caption\]
 
 Pharmac is being left to make the final call on how a young woman suffering life threatening seizures can access medication.
 

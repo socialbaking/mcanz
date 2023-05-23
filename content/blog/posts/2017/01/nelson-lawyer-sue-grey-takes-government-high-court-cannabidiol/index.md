@@ -18,7 +18,7 @@ NINA HINDMARSH
 
 Last updated 07:49, January 21 2017
 
-\[caption id="attachment\_3666" align="aligncenter" width="620"\]![ by Marion van Dijk](http://mcawarenessnz.org/wp-content/uploads/2017/01/Nelson-Public-rights-lawyer-Sue-Grey-by-Marion-van-Dijk.jpg) Nelson Public rights lawyer Sue Grey\[/caption\]
+\[caption id="attachment\_3666" align="aligncenter" width="620"\]![ by Marion van Dijk](/wp-content/uploads/2017/01/Nelson-Public-rights-lawyer-Sue-Grey-by-Marion-van-Dijk.jpg) Nelson Public rights lawyer Sue Grey\[/caption\]
 
 Sick New Zealanders might not need to jump through so many hoops to obtain some cannabis-based medicines if a Nelson lawyer wins her battle against the Government.
 
@@ -26,13 +26,13 @@ Sue Grey says she has the backing of a leading government scientist who says C
 
 Grey intends to challenge the Government in the High Court if it doesn't change its legal classification of cannabidiol, or CBD.
 
-\[caption id="attachment\_3668" align="aligncenter" width="620"\]![123frf](http://mcawarenessnz.org/wp-content/uploads/2017/01/the-cannabis-plant-by-123rf.jpg) The cannabis plant\[/caption\]
+\[caption id="attachment\_3668" align="aligncenter" width="620"\]![123frf](/wp-content/uploads/2017/01/the-cannabis-plant-by-123rf.jpg) The cannabis plant\[/caption\]
 
 CBD occurs in industrial hemp products known for their health and medical benefits and is not psychoactive. Currently, any drug containing CBD is restricted in New Zealand and can only be obtained through a lengthly and expensive process by ministerial approval.
 
 If Grey is successful, people seeking to obtain the drug would only need a doctor's prescription.
 
-\[caption id="attachment\_3669" align="aligncenter" width="620"\]![Marion van Dijk](http://mcawarenessnz.org/wp-content/uploads/2017/01/Rose-Rention-by-Maion-van-dijk.jpg) Rose Renton\[/caption\]
+\[caption id="attachment\_3669" align="aligncenter" width="620"\]![Marion van Dijk](/wp-content/uploads/2017/01/Rose-Rention-by-Maion-van-dijk.jpg) Rose Renton\[/caption\]
 
 Rose Renton, Medicinal campaigner and mother of Alex Renton, said that if lawyer Sue Grey was correct, her terminally ill son wouldn't have needed ministerial approval to be treated with Elixinol.
 

@@ -9,7 +9,7 @@ tags:
   - "spark"
 ---
 
-![Spark Foundation payroll giving](http://mcawarenessnz.org/wp-content/uploads/2016/09/SPA1267-Spark-Foundation-Graphic-v2-2.jpg)We are pleased to say that Medical Cannabis Awareness New Zealand is now set up for Payroll Giving.
+![Spark Foundation payroll giving](/wp-content/uploads/2016/09/SPA1267-Spark-Foundation-Graphic-v2-2.jpg)We are pleased to say that Medical Cannabis Awareness New Zealand is now set up for Payroll Giving.
 
  
 

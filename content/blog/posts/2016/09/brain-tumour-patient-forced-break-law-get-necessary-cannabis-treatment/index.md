@@ -5,7 +5,7 @@ categories:
   - "patient-stories"
 ---
 
-\[caption id="attachment\_3455" align="alignnone" width="620"\]![dam Poulter had a tennis ball-sized tumour removed from his brain and uses cannabis extract to combat seizures, pain, and nausea. He has to break the law to get the treatment. The scar from his recent operation can be seen on his skull.](http://mcawarenessnz.org/wp-content/uploads/2016/09/AdamP.jpg) Adam Poulter had a tennis ball-sized tumour removed from his brain and uses cannabis extract to combat seizures, pain, and nausea. He has to break the law to get the treatment. The scar from his recent operation can be seen on his skull.\[/caption\]
+\[caption id="attachment\_3455" align="alignnone" width="620"\]![dam Poulter had a tennis ball-sized tumour removed from his brain and uses cannabis extract to combat seizures, pain, and nausea. He has to break the law to get the treatment. The scar from his recent operation can be seen on his skull.](/wp-content/uploads/2016/09/AdamP.jpg) Adam Poulter had a tennis ball-sized tumour removed from his brain and uses cannabis extract to combat seizures, pain, and nausea. He has to break the law to get the treatment. The scar from his recent operation can be seen on his skull.\[/caption\]
 
 Adam Poulter had a tumour the size of a tennis ball removed from his brain but his choice of medicine could land him in jail.
 

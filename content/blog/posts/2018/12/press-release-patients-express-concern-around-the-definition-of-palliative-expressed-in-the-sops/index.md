@@ -24,7 +24,7 @@ MCANZ would like to see the definition truncated to the following
 **"a person requires palliation if, in the opinion of a medical practitioner or nurse practitioner, the person has an advanced life-limiting condition"**   
 "This would prove a huge win for reason and compassion and is aligned with the promise of making drug laws a health issue, not a criminal one." Says MCANZ Coordinator Shane Le Brun.
 
-![](https://mcawarenessnz.org/wp-content/uploads/2018/12/2l.png)
+![](/wp-content/uploads/2018/12/2l.png)
 
   
 Dr  
@@ -35,7 +35,7 @@ Dr
 Says MCANZ Chairwoman Dr  
  Huhana Hickey.  
 
-![](https://mcawarenessnz.org/wp-content/uploads/2018/12/grace2-1.jpg)
+![](/wp-content/uploads/2018/12/grace2-1.jpg)
 
   
 Grace Yeats is currently considered palliative under the current definition, yet would be excluded under the amendments to the Medical Cannabis bill, her condition, necrosis of the Basal Ganglia following an infection, is not progressive. Her condition results in loss of muscle control which has been treated with extreme treatments such as a Spinal Baclofen Pump, Sativex Mouthspray, regular Botox injections, and scheduled surgeries to realign the spine.  
@@ -43,7 +43,7 @@ Grace Yeats is currently considered palliative under the current definition, yet
   
   
 
-![](https://mcawarenessnz.org/wp-content/uploads/2018/12/Grace1-1.jpg)
+![](/wp-content/uploads/2018/12/Grace1-1.jpg)
 
   
 Her condition is not terminal, and short of a mishap on the operating table, she will live a long life. Grace fails to qualify on 2 grounds, _she is neither nearing the end of her life_ nor is her condition _progressive_.

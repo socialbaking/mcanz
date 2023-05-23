@@ -27,9 +27,9 @@ tags:
 
 A review which left the rules for access to medical cannabis largely unchanged was 'biased', an open letter from advocates says.
 
-![no caption](https://mcanz.org.nz/wp-content/uploads/2022/04/eight_col_000_8L6Y3.jpg)
+![no caption](/wp-content/uploads/2022/04/eight_col_000_8L6Y3.jpg)
 
-\[audio mp3="http://mcawarenessnz.org/wp-content/uploads/2016/06/RRonRadiolive.mp3"\]\[/audio\]
+\[audio mp3="/wp-content/uploads/2016/06/RRonRadiolive.mp3"\]\[/audio\]
 
 Associate Health Minister Peter Dunne had Ministry officials and medical professionals look at guidelines used to assess applications for prescribing cannabis-based products.
 

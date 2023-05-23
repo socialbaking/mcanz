@@ -19,4 +19,4 @@ tags:
 
 Ryan Boswell reports on the progress of Jamie O'mara and asks The Epilepsy Association and MS Society on there thoughts regarding Sativex funding and Pharmac. To help Jamie and others with the costs of Sativex please consider donating to our Registered Charity.
 
-[![givealittle](http://mcawarenessnz.org/wp-content/uploads/2015/06/givealittle-300x174.png)](https://givealittle.co.nz/cause/legalmcfor10)
+[![givealittle](/wp-content/uploads/2015/06/givealittle-300x174.png)](https://givealittle.co.nz/cause/legalmcfor10)

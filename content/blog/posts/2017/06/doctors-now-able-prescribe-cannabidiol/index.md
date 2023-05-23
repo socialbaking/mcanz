@@ -13,7 +13,7 @@ tags:
 
 The mother of the first New Zealander to be granted an exemption to use medicinal cannabis says a decision to allow doctors to prescribe cannabidiol without Ministry of Health approval is a "great day for New Zealand medicine".
 
-\[caption id="attachment\_3966" align="alignnone" width="300"\]![](http://mcawarenessnz.org/wp-content/uploads/2017/06/eight_col_3-panel_1600x1000-300x188.gif) Left to right: Associate Health Minister Peter Dunne, a sign for Alex Renton, Alex's mother Rose Renton Photo: RNZ\[/caption\]
+\[caption id="attachment\_3966" align="alignnone" width="300"\]![](/wp-content/uploads/2017/06/eight_col_3-panel_1600x1000-300x188.gif) Left to right: Associate Health Minister Peter Dunne, a sign for Alex Renton, Alex's mother Rose Renton Photo: RNZ\[/caption\]
 
 The government is lifting restrictions on cannabidiol (CBD), a substance found in cannabis with potential therapeutic value and little or no psychoactive properties.
 
@@ -29,7 +29,7 @@ Today's announcement had been a long time coming, but it was "a great day for Ne
 
 She said her son's "outcome could have been very different" had the law been relaxed much sooner.
 
-\[caption id="attachment\_3961" align="alignnone" width="300"\]![](http://mcawarenessnz.org/wp-content/uploads/2017/06/Alex-Renton-300x169.png) Alex Renton became the first New Zealander to be granted an exemption to use medicinal cannabis a month before he died of severe epilepsy in 2015. Photo: Facebook\[/caption\]
+\[caption id="attachment\_3961" align="alignnone" width="300"\]![](/wp-content/uploads/2017/06/Alex-Renton-300x169.png) Alex Renton became the first New Zealander to be granted an exemption to use medicinal cannabis a month before he died of severe epilepsy in 2015. Photo: Facebook\[/caption\]
 
 "It should have been there. It should never have been removed from the medicine cabinet. It should have a first line treatment, not a last line treatment."
 

@@ -11,7 +11,7 @@ tags:
   - "yeats"
 ---
 
-\[caption id="attachment\_3384" align="alignright" width="300"\]![Grace Yeats' mother says those around them can see how a cannabis-based treatment has helped her daughter.](http://mcawarenessnz.org/wp-content/uploads/2016/08/Graceyeats-300x150.jpg) Grace Yeats' mother says those around them can see how a cannabis-based treatment has helped her daughter.\[/caption\]
+\[caption id="attachment\_3384" align="alignright" width="300"\]![Grace Yeats' mother says those around them can see how a cannabis-based treatment has helped her daughter.](/wp-content/uploads/2016/08/Graceyeats-300x150.jpg) Grace Yeats' mother says those around them can see how a cannabis-based treatment has helped her daughter.\[/caption\]
 
 Carterton mother Tracy Yeats hopes the Government will take notice of a survey which shows overwhelming support for the legalisation and decriminalisation of cannabis for medicinal use.
 

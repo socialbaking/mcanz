@@ -10,7 +10,7 @@ tags:
   - "scheme"
 ---
 
-With the government's Medical Cannabis Scheme document out for consultation, Medical Cannabis Awareness NZ has undertaken an [independent study](https://mcanz.org.nz/mcanz-launches-its-first-study-of-medical-cannabis-users-in-nz/) of medicinal cannabis users. MCANZ, a charity which focuses on promoting access, supporting patients and providing education to the Medical profession, has received over 2,800 responses.
+With the government's Medical Cannabis Scheme document out for consultation, Medical Cannabis Awareness NZ has undertaken an [independent study](/mcanz-launches-its-first-study-of-medical-cannabis-users-in-nz/) of medicinal cannabis users. MCANZ, a charity which focuses on promoting access, supporting patients and providing education to the Medical profession, has received over 2,800 responses.
 
 Among the key interim findings is that one-third of medical users grow at least some of their own cannabis plants, while two-thirds obtain at least some from friends and family. The average weekly spend was seen to be around $33 dollars, significantly less than the typical spend in Australia. Compared to the current options available for patients prescribed medicinal cannabis – Sativex, a UK made mouth spray, costs $1,000 per month. The Canadian alternative, Tilray, started selling here at just under that and has been slowly creeping down in price to around $500 per month, although the differing requirements for Epilepsy can still result in up to $2000 a week in rare instances.
 

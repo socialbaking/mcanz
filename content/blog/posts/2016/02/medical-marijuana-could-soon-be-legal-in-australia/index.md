@@ -12,7 +12,7 @@ tags:
   - "trials"
 ---
 
-[![cabbanis-rf-getty](http://mcawarenessnz.org/wp-content/uploads/2016/02/cabbanis-rf-getty.jpg?w=1024)](http://mcawarenessnz.org/wp-content/uploads/2016/02/cabbanis-rf-getty.jpg)
+[![cabbanis-rf-getty](/wp-content/uploads/2016/02/cabbanis-rf-getty.jpg?w=1024)](/wp-content/uploads/2016/02/cabbanis-rf-getty.jpg)
 
 Australia has legalised the growth of marijuana for use in research, in the first step towards potentially legalising the drug for patients dealing with painful conditions.
 

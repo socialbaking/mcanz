@@ -15,7 +15,7 @@ tags:
   - "trial"
 ---
 
-\[caption id="attachment\_2366" align="alignnone" width="400"\][![Lead author Orrin Devinsky, MD, director of the Comprehensive Epilepsy Center at NYU Langone Medical Center.](http://mcawarenessnz.org/wp-content/uploads/2016/01/318068.jpg)](http://mcawarenessnz.org/wp-content/uploads/2016/01/318068.jpg) Lead author Orrin Devinsky, MD, director of the Comprehensive Epilepsy Center at NYU Langone Medical Center.\[/caption\]
+\[caption id="attachment\_2366" align="alignnone" width="400"\][![Lead author Orrin Devinsky, MD, director of the Comprehensive Epilepsy Center at NYU Langone Medical Center.](/wp-content/uploads/2016/01/318068.jpg)](/wp-content/uploads/2016/01/318068.jpg) Lead author Orrin Devinsky, MD, director of the Comprehensive Epilepsy Center at NYU Langone Medical Center.\[/caption\]
 
 NEW YORK, Dec. 23, 2015 /PRNewswire-USNewswire/ -- Cannabidiol (CBD), a medical marijuana derivative, was effective in reducing seizure frequency and well-tolerated and safe for most children and young adults enrolled in a year-long study led by[epilepsy](http://nyulangone.org/conditions/epilepsy-seizure-disorders) specialists at NYU Langone Medical Center.
 

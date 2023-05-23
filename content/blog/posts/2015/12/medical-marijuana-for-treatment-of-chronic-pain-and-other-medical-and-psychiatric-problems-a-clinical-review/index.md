@@ -41,4 +41,4 @@ Original source is Journal of the American Medical Society [June 23/30, 2015, V
 
 To read the full in depth text, please visit the the [JAMA website here](http://jama.jamanetwork.com/article.aspx?articleid=2338251) 
 
-[![jama-logo](http://mcawarenessnz.org/wp-content/uploads/2015/12/jama-logo.jpg?w=300)](http://jama.jamanetwork.com/article.aspx?articleid=2338251)
+[![jama-logo](/wp-content/uploads/2015/12/jama-logo.jpg?w=300)](http://jama.jamanetwork.com/article.aspx?articleid=2338251)

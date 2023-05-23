@@ -14,7 +14,7 @@ tags:
   - "whole-plant"
 ---
 
-[![Sativexpack](https://mcanz.org.nz/wp-content/uploads/2022/04/sativexpack.png)](https://yournz.files.wordpress.com/2015/04/sativexpack.png)
+[![Sativexpack](/wp-content/uploads/2022/04/sativexpack.png)](https://yournz.files.wordpress.com/2015/04/sativexpack.png)
 
 During all of my [posts on Medical Cannabis,](http://yournz.org/medical-cannabis/medicinal-cannabis-blog-posts/ "Your NZ Blog links") there have been may references to Sativex, the only LEGAL Medical Cannabis preparation in NZ, so I thought it was time to delve deeply into the product and explain it, and why it is an incomplete solution to the problem of Medical Cannabis in NZ.
 

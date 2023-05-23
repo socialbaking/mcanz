@@ -40,7 +40,7 @@ The Haslams' plan is also supported by Daniel's widow Alyce.
 
 ## Haslams the 'driving force' behind medicinal cannabis change
 
-[![Daniel and Lucy Haslam](https://mcanz.org.nz/wp-content/uploads/2022/04/6862110-3x2-700x467-1.jpg "Daniel and Lucy Haslam")](http://www.abc.net.au/news/2015-10-16/daniel-and-lucy-haslam/6862144)[**PHOTO:** For three years Lucy Haslam's son Daniel experienced debilitating nausea as a result of chemotherapy and only gained relief when he began using cannabis as a medicine. (Supplied: Paul Mathews)](http://www.abc.net.au/news/2015-10-16/daniel-and-lucy-haslam/6862144)
+[![Daniel and Lucy Haslam](/wp-content/uploads/2022/04/6862110-3x2-700x467-1.jpg "Daniel and Lucy Haslam")](http://www.abc.net.au/news/2015-10-16/daniel-and-lucy-haslam/6862144)[**PHOTO:** For three years Lucy Haslam's son Daniel experienced debilitating nausea as a result of chemotherapy and only gained relief when he began using cannabis as a medicine. (Supplied: Paul Mathews)](http://www.abc.net.au/news/2015-10-16/daniel-and-lucy-haslam/6862144)
 
 Ms Haslam is widely credited as the driving force behind various state and federal initiatives aimed at legalising the drug.
 

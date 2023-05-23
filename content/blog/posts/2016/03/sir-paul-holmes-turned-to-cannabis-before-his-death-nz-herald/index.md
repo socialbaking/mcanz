@@ -12,7 +12,7 @@ tags:
   - "sir"
 ---
 
-\[caption id="attachment\_2811" align="alignnone" width="620"\][![Sir Paul Holmes turned to marijuana before his death. Photo / Warren Buckland](http://mcawarenessnz.org/wp-content/uploads/2016/03/sirpaul.jpg)](http://mcawarenessnz.org/wp-content/uploads/2016/03/sirpaul.jpg) Sir Paul Holmes turned to marijuana before his death. Photo / Warren Buckland\[/caption\]
+\[caption id="attachment\_2811" align="alignnone" width="620"\][![Sir Paul Holmes turned to marijuana before his death. Photo / Warren Buckland](/wp-content/uploads/2016/03/sirpaul.jpg)](/wp-content/uploads/2016/03/sirpaul.jpg) Sir Paul Holmes turned to marijuana before his death. Photo / Warren Buckland\[/caption\]
 
 The late broadcaster Sir Paul Holmes turned to Cannabis before his death, his widow has revealed.
 

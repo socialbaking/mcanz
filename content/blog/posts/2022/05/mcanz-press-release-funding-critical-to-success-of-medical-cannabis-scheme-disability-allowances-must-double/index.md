@@ -20,7 +20,7 @@ The Medical Cannabis scheme has been live now for several years, with the transi
 
 Against this backdrop, the patients with the most urgent needs are the least likely to be able to afford Medical Cannabis. At the MedCan summit, the Health Minister spoke of Pharmac funding. "Having sat down with Pharmac and discussed thresholds for funding, both on a product or individual patient basis, I would suggest the Minister is guilty of Virtue Signalling, outside of a very narrow niche use case for Epidiolex, there is no likelihood of Pharmac funding for things patients want, Dried flowers, Oils etc, for the foreseeable future" says MCANZ founder Shane Le Brun.
 
-\[caption id="attachment\_3947" align="alignright" width="300" height="300" alt=""\]![](https://mcanz.org.nz/wp-content/uploads/2022/05/2-inpage-profile-300x300.jpg) Andrew Little is accused of "Virtue signalling" with talk of PHARMAC funding for Medical Cannabis.\[/caption\]
+\[caption id="attachment\_3947" align="alignright" width="300" height="300" alt=""\]![](/wp-content/uploads/2022/05/2-inpage-profile-300x300.jpg) Andrew Little is accused of "Virtue signalling" with talk of PHARMAC funding for Medical Cannabis.\[/caption\]
 
 The only other funding options currently available are ACC and WINZ funding, particularly "Temporary Additional Support" and the Disability Allowance. The experience of the patient community with ACC is that it requires appeals, often to the District Court, for ACC to fund conditions such as Chronic Pain.
 

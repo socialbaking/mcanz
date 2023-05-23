@@ -9,4 +9,4 @@ tags:
   - "radio-live"
 ---
 
-\[audio mp3="http://mcawarenessnz.org/wp-content/uploads/2016/01/slackkelly.mp3"\]\[/audio\]
+\[audio mp3="/wp-content/uploads/2016/01/slackkelly.mp3"\]\[/audio\]

@@ -11,7 +11,7 @@ tags:
 
 MCANZ has resolved to take the fight to ACC for funding Medical Cannabis, due to persistent refusals experienced in the patient community even when patients have exhausted all other treatments, or the clinical response of patients using Medical Cannabis has far exceeded standard treatments.
 
-\[caption id="attachment\_2960" align="alignright" width="296"\]![](https://mcanz.org.nz/wp-content/uploads/2022/04/jamie1.jpg) Jamie O'mara, who suffers from a severe form epilepsy, recovering from one of his near death experiences.\[/caption\]
+\[caption id="attachment\_2960" align="alignright" width="296"\]![](/wp-content/uploads/2022/04/jamie1.jpg) Jamie O'mara, who suffers from a severe form epilepsy, recovering from one of his near death experiences.\[/caption\]
 
 As recently as January this year it seemed as if progress was being made, with a significant win for patients with [funding granted in the case of Jamie O'mara](https://www.newshub.co.nz/home/new-zealand/2020/01/acc-agrees-to-fund-medicinal-cannabis-for-severely-disabled-man.html).  In this instance, ACC has reneged on this commitment and is now using it's typical tactics of delay and obfuscation and spurious concerns around "tolerance" build up as a reason to cease funding going forward.
 

@@ -9,7 +9,7 @@ tags:
   - "vomitting"
 ---
 
-\[caption id="attachment\_7354" align="alignright" width="341"\]![](https://mcanz.org.nz/wp-content/uploads/2022/04/205022.jpg) Meniere's disease has an unknown cause but results in fluid build-up within the ear that damages structures, resulting in deafness, tinnitus, nausea, vomiting and vertigo.\-mood getting dark\[/caption\]
+\[caption id="attachment\_7354" align="alignright" width="341"\]![](/wp-content/uploads/2022/04/205022.jpg) Meniere's disease has an unknown cause but results in fluid build-up within the ear that damages structures, resulting in deafness, tinnitus, nausea, vomiting and vertigo.\-mood getting dark\[/caption\]
 
 \- numbness increasing behind my ear
 

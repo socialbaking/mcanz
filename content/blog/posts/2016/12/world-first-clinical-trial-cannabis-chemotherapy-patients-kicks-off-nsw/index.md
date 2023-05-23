@@ -26,7 +26,7 @@ The 32-year-old mother of two was diagnosed with Ewing sarcoma in 2014. After a 
 
 Her two children, Ava,4, and Ashton, 3, know little of the intense waves of nausea and violent vomiting episodes their mother suffers during and after her chemotherapy cycles.
 
-\[caption id="attachment\_3622" align="alignnone" width="300"\]![](http://mcawarenessnz.org/wp-content/uploads/2016/12/lauren1-300x169.jpg) Lauren Hew hopes to be screening for a groundbreaking NSW clinical trial of cannabis for chemotherapy patients. Photo: Louie Douvis\[/caption\]
+\[caption id="attachment\_3622" align="alignnone" width="300"\]![](/wp-content/uploads/2016/12/lauren1-300x169.jpg) Lauren Hew hopes to be screening for a groundbreaking NSW clinical trial of cannabis for chemotherapy patients. Photo: Louie Douvis\[/caption\]
 
 "They know mummy's sick, and mummy has no hair, and mummy goes away to get medicine but we don't used the cancer word at all at home. They're too young and what they do know is scary enough," she said.
 
@@ -36,13 +36,13 @@ Mrs Hew is stoic as she describes being hospitalised after almost every chemothe
 
 "I watch everyone else around me crumble at times. There's no point me lying down and crumbling too.
 
-\[caption id="attachment\_3624" align="alignnone" width="300"\]![](http://mcawarenessnz.org/wp-content/uploads/2016/12/Prugoward-300x167.jpg) Minister for Medical Research Pru Goward said a rigorous, evidence-based approach was the only way to definitively demonstrate whether cannabis could be safe and effective. Photo: Janie Barrett\[/caption\]
+\[caption id="attachment\_3624" align="alignnone" width="300"\]![](/wp-content/uploads/2016/12/Prugoward-300x167.jpg) Minister for Medical Research Pru Goward said a rigorous, evidence-based approach was the only way to definitively demonstrate whether cannabis could be safe and effective. Photo: Janie Barrett\[/caption\]
 
 "I need my children to remember me as a happy mum that did things with them and took them to the park and the zoo while I'm here, because if things get worse I won't get to do that with them," she said.
 
 The primary school teacher from Marsfield is hoping she will be screened for a [world-first clinical trial](https://www.medicinalcannabis.nsw.gov.au/clinical-trials/chemotherapy-trial) of medicinal cannabis to treat cancer patients with severe nausea and vomiting caused by chemotherapy.
 
-\[caption id="attachment\_3623" align="alignnone" width="300"\]![](http://mcawarenessnz.org/wp-content/uploads/2016/12/lauren2-300x168.jpg) Even if Lauren Hew does not benefit from the trial, she hopes other cancer patients will. Photo: Louie Douvis\[/caption\]
+\[caption id="attachment\_3623" align="alignnone" width="300"\]![](/wp-content/uploads/2016/12/lauren2-300x168.jpg) Even if Lauren Hew does not benefit from the trial, she hopes other cancer patients will. Photo: Louie Douvis\[/caption\]
 
 The randomised, placebo-controlled, double-blinded trial will test whether cannabis in the form of an oral, plant-derived capsule could be a safe and effective treatment.
 

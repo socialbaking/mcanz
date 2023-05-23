@@ -14,4 +14,4 @@ tags:
   - "vanilloid"
 ---
 
-\[pdf-embedder url="http://mcawarenessnz.org/wp-content/uploads/2016/01/Morelli\_et\_al-2014-International\_Journal\_of\_Cancer.pdf"\]
+\[pdf-embedder url="/wp-content/uploads/2016/01/Morelli\_et\_al-2014-International\_Journal\_of\_Cancer.pdf"\]

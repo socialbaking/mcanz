@@ -17,7 +17,7 @@ tags:
   - "tumour"
 ---
 
-Article by Casey Johnson, Mother to Elyse, a follow up to this [earlier post from 2018](https://mcanz.org.nz/dipg-elyse-defying-odds/)
+Article by Casey Johnson, Mother to Elyse, a follow up to this [earlier post from 2018](/dipg-elyse-defying-odds/)
 
 Hi my name is Casey. I’m a wife and mother to two children, Blake 9yrs and Elyse 6yrs.
 
@@ -41,7 +41,7 @@ I was telling myself that everything would be okay and they would be able to ope
 
  
 
-\[caption id="attachment\_4801" align="alignright" width="300"\]![](https://mcanz.org.nz/wp-content/uploads/2022/04/Survival-Chart1-300x199.png) Despite 40 years of progress on most cancers, DIPG remains stubbornly fatal, with less than 1% of patients surviving to the 5 year mark.\[/caption\]
+\[caption id="attachment\_4801" align="alignright" width="300"\]![](/wp-content/uploads/2022/04/Survival-Chart1-300x199.png) Despite 40 years of progress on most cancers, DIPG remains stubbornly fatal, with less than 1% of patients surviving to the 5 year mark.\[/caption\]
 
 The following day we were taken to the quiet room, I had no idea about the news to come. The doctor said your daughter has a brain tumour called diffuse intrinsic pontine glioma (DIPG) and she has weeks to months to live and there’s nothing we can do except offer radiation to buy some time. After the tears and the questions my husband had disappeared down the corridor, I ran to the toilet to vomit from the horror I had just been told, I wanted to run away, scream, cry, I went into some sort of shock but had to try and pull myself together for her. We had to go back to the room and try to process the devastating news we had just been told.Despite 40 years of progress on most cancers, DIPG remains stubbornly fatal, with less than 1% of patients surviving to the 5 year mark.
 
@@ -63,13 +63,13 @@ One of the first medicines we started using was called TBL-12 (bêche-de-mer sea
 
 By October 2016 the rate of the tumour growth had subsided but Elyse had already lost the ability to eat, talk and walk and was trapped in her body.
 
-After countless hours of research on medicinal cannabis and its [cancer-fighting properties](https://mcanz.org.nz/cancer/), we decided to apply to the ministry of health to obtain the medicinal cannabis oil called Sativex by prescription for Elyse. This was a lengthy process with lots of hurdles, paper signing and waiting. Sativex was finally approved in November 2016 to assist with the palliative "management" of Elyses DIPG.
+After countless hours of research on medicinal cannabis and its [cancer-fighting properties](/cancer/), we decided to apply to the ministry of health to obtain the medicinal cannabis oil called Sativex by prescription for Elyse. This was a lengthy process with lots of hurdles, paper signing and waiting. Sativex was finally approved in November 2016 to assist with the palliative "management" of Elyses DIPG.
 
 Elyse was the youngest person at the time in NZ to receive this medicine. We slowly built her dose up over the next 6 months, her tumour continued to grow it was well over 6cm and by July 2017 and we were told Elyse only had weeks left to live.
 
 We then started her on an organic food called Liquid Hope and added lypo turmeric, more essential oils and other natural medicines, we also increased her cannabis dose and changed to a higher quality medicinal cannabis oil called Tilray THC10:CBD10. This cost us close to $450 a week but it has been worth every cent.  Over the past 2 years, her tumour has been shrinking at a steady rate and has now shrunk a whopping 15%!
 
-\[caption id="attachment\_10518" align="alignright" width="300"\]![](https://mcanz.org.nz/wp-content/uploads/2022/04/tilray-balanced-300x300.png) at 5 years old, Elyse is on 7ml of Oil a day, over twice the typical adult daily dose.\[/caption\]
+\[caption id="attachment\_10518" align="alignright" width="300"\]![](/wp-content/uploads/2022/04/tilray-balanced-300x300.png) at 5 years old, Elyse is on 7ml of Oil a day, over twice the typical adult daily dose.\[/caption\]
 
 This has been the hardest longest battle I’ve faced as a parent but with Elyse's sheer determination (Some would say her stubbornness and sass) and keeping up with the medicines, hearing that it has shrunk by such a huge amount was the best news I’ve received in a long time!
 
@@ -85,7 +85,7 @@ Our family have been ever so grateful to have such a wonderful support system fr
 
 Without the generosity from everyone, we wouldn’t be in the position we are today. Without a doubt. Elyse is beating the odds that were stacked against her when she was just 2 ½ years Old. She is proving everyone wrong and her doctors are astounded with her progress. I have no words to describe how proud I am of her.
 
-\[caption id="attachment\_10520" align="alignright" width="225"\]![](https://mcanz.org.nz/wp-content/uploads/2022/04/Elyse-at-School-155x300.jpg) Defying the odds for 3 years, Elyse is now able to attend school, with some symptoms lessened in severity.\[/caption\]
+\[caption id="attachment\_10520" align="alignright" width="225"\]![](/wp-content/uploads/2022/04/Elyse-at-School-155x300.jpg) Defying the odds for 3 years, Elyse is now able to attend school, with some symptoms lessened in severity.\[/caption\]
 
  
 

@@ -32,4 +32,5 @@ export default defineConfig({
   integrations: [sitemap()],
   output: "static",
   adapter: vercelStatic(),
+  publicDir: "public"
 });

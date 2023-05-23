@@ -11,7 +11,7 @@ tags:
   - "osborne"
 ---
 
-![osborne](http://mcawarenessnz.org/wp-content/uploads/2016/04/osborne.jpg)
+![osborne](/wp-content/uploads/2016/04/osborne.jpg)
 
 After a week of taking cannabis oil, cancer sufferer Anna Osborne is sleeping better and no longer has to take anti-nausea pills.
 

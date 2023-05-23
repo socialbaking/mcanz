@@ -10,7 +10,7 @@ tags:
   - "rapper"
 ---
 
-\[caption id="attachment\_2814" align="alignnone" width="960"\][![Polish MP Piotr Liroy-Marzec's bill supports the legalisation of marijuana for medicinal use, such as this cannabis-made product for therapeutic use seen on December 22, 2015 (AFP Photo/Guillermo Legaria)](http://mcawarenessnz.org/wp-content/uploads/2016/03/cdvtu7huuaawnlb.jpg)](http://mcawarenessnz.org/wp-content/uploads/2016/03/cdvtu7huuaawnlb.jpg) Polish MP Piotr Liroy-Marzec's bill supports the legalisation of marijuana for medicinal use, such as this cannabis-made product for therapeutic use seen on December 22, 2015 (AFP Photo/Guillermo Legaria)\[/caption\]
+\[caption id="attachment\_2814" align="alignnone" width="960"\][![Polish MP Piotr Liroy-Marzec's bill supports the legalisation of marijuana for medicinal use, such as this cannabis-made product for therapeutic use seen on December 22, 2015 (AFP Photo/Guillermo Legaria)](/wp-content/uploads/2016/03/cdvtu7huuaawnlb.jpg)](/wp-content/uploads/2016/03/cdvtu7huuaawnlb.jpg) Polish MP Piotr Liroy-Marzec's bill supports the legalisation of marijuana for medicinal use, such as this cannabis-made product for therapeutic use seen on December 22, 2015 (AFP Photo/Guillermo Legaria)\[/caption\]
 
  
 

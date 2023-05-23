@@ -14,7 +14,7 @@ tags:
   - "scheme"
 ---
 
-\[caption id="attachment\_3306" align="alignright" width="300"\]![Assistant Health Minister Meeghan Fitzharris of ACT, who happens to be Kiwi born and is implementing MC in the Australian Capital.](http://mcawarenessnz.org/wp-content/uploads/2016/08/Meegan-Fitzharris-300x300.png) Assistant Health Minister Meeghan Fitzharris of ACT, who happens to be Kiwi born and is implementing MC in the Australian Capital.\[/caption\]
+\[caption id="attachment\_3306" align="alignright" width="300"\]![Assistant Health Minister Meeghan Fitzharris of ACT, who happens to be Kiwi born and is implementing MC in the Australian Capital.](/wp-content/uploads/2016/08/Meegan-Fitzharris-300x300.png) Assistant Health Minister Meeghan Fitzharris of ACT, who happens to be Kiwi born and is implementing MC in the Australian Capital.\[/caption\]
 
 A Medicinal Cannabis Scheme will be established in the ACT to give people safe and legal access to high quality medicinal cannabis products, announced Assistant Health Minister Meegan Fitzharris today.
 

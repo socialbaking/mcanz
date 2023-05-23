@@ -18,7 +18,7 @@ tags:
 
 **Irish Government passes medicinal cannabis bill without vote**   1 December 2016
 
-![medical-cannabis-call-for-law-to-change](http://mcawarenessnz.org/wp-content/uploads/2016/12/medical-cannabis-call-for-law-to-change.jpg)
+![medical-cannabis-call-for-law-to-change](/wp-content/uploads/2016/12/medical-cannabis-call-for-law-to-change.jpg)
 
  
 

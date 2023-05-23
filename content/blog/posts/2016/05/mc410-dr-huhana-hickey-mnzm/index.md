@@ -14,7 +14,7 @@ tags:
   - "sativex"
 ---
 
-![Huhana_chris Skelton Fairfax](http://mcawarenessnz.org/wp-content/uploads/2015/10/huhana_chris-skelton-fairfax.jpg)Four months ago I began the journey with my pain by taking Sativex which is essentially medicinal cannabis in spray form. Since I started the daily routine, I have not taken any morphine, gabapentin, codeine and have weaned down to only two tramadol a day, (anyone who says it doesn't work for pain is a liar)
+![Huhana_chris Skelton Fairfax](/wp-content/uploads/2015/10/huhana_chris-skelton-fairfax.jpg)Four months ago I began the journey with my pain by taking Sativex which is essentially medicinal cannabis in spray form. Since I started the daily routine, I have not taken any morphine, gabapentin, codeine and have weaned down to only two tramadol a day, (anyone who says it doesn't work for pain is a liar)
 
 Previously, I was on a cocktail of opiates, all at high doses and living in a constant mental fog. I still get nausea, I think because of the alcohol solution in the spray and in the morning I struggle with spasms as I take less than the recommended dose. However I am in less pain,  with no insomnia and no more mental fog. The only barriers that remain are cost and the fact we have just one product when variations of cbd and thc are needed for a variety of conditions.
 

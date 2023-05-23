@@ -8,7 +8,7 @@ categories:
 
 Helen Kelly was a leader who inspired love and respect. I am one of the many who knew her but was not in her inner circle.
 
-\[caption id="attachment\_3516" align="alignright" width="300"\]![1476422949039](http://mcawarenessnz.org/wp-content/uploads/2016/10/1476422949039-300x169.jpg) Photo: Maarten Holl/Fairfax Helen Kelly - President of the New Zealand Council of Trade Unions\[/caption\]
+\[caption id="attachment\_3516" align="alignright" width="300"\]![1476422949039](/wp-content/uploads/2016/10/1476422949039-300x169.jpg) Photo: Maarten Holl/Fairfax Helen Kelly - President of the New Zealand Council of Trade Unions\[/caption\]
 
 However, we had a connection that goes back to a unique childhood.
 

@@ -15,7 +15,7 @@ tags:
   - "syndrome"
 ---
 
-\[caption id="attachment\_3167" align="alignright" width="225"\]![Paige Gallien, Long term Sativex user.](http://mcawarenessnz.org/wp-content/uploads/2016/07/Paige1-225x300.jpg) Paige Gallien, Long term Sativex user and Medical Cannabis success story.\[/caption\]
+\[caption id="attachment\_3167" align="alignright" width="225"\]![Paige Gallien, Long term Sativex user.](/wp-content/uploads/2016/07/Paige1-225x300.jpg) Paige Gallien, Long term Sativex user and Medical Cannabis success story.\[/caption\]
 
 Paige was the first child in New Zealand to legally access a Cannabis Based product, in this case Sativex.  There was much media coverage at the time with the family featuring on Sunday, Newspapers etc.  She was only 11 years old when she started on Sativex, and she has been on it ever since.
 

@@ -22,7 +22,7 @@ Friday 9th December 2016
 
 **By Lynne Kelleher**
 
-![](http://mcawarenessnz.org/wp-content/uploads/2016/12/tristan-is-now-back-home-300x237.jpg)
+![](/wp-content/uploads/2016/12/tristan-is-now-back-home-300x237.jpg)
 
 Tristan is now back home
 

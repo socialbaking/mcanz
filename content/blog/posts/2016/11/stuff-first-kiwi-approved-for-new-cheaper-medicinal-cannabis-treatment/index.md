@@ -20,7 +20,7 @@ Tilray could be around half the price of Sativex, which until now has been the 
 
 "I probably could have managed another two or three months, and then I'd have to stop and go back on morphine."
 
-\[caption id="" align="alignright" width="537"\]![CAMERON BURNELL / FAIRFAX NZ](http://mcawarenessnz.org/wp-content/uploads/2016/11/1478919636602.jpg) Associate Health Minister Peter Dunne recently approved Tilray for use in New Zealand.\[/caption\]
+\[caption id="" align="alignright" width="537"\]![CAMERON BURNELL / FAIRFAX NZ](/wp-content/uploads/2016/11/1478919636602.jpg) Associate Health Minister Peter Dunne recently approved Tilray for use in New Zealand.\[/caption\]
 
 That's something she was keen to avoid. Until switching to Sativex, Hickey relied on a potent cocktail of drugs to survive with the pain caused by her multiple sclerosis.
 
@@ -28,7 +28,7 @@ That's something she was keen to avoid. Until switching to Sativex, Hickey relie
 
 Shane Le Brun, who founded the advocacy charity Medicinal Cannabis Awareness, said prohibitive costs have held many Kiwis back from applying for Sativex.
 
-\[caption id="attachment\_3579" align="alignright" width="446"\]![1478919636602-1](http://mcawarenessnz.org/wp-content/uploads/2016/11/1478919636602-1-1.jpg) Medicinal cannabis helps Dr Huhana Hickey live a normal life despite the effects of her multiple sclerosis.\[/caption\]
+\[caption id="attachment\_3579" align="alignright" width="446"\]![1478919636602-1](/wp-content/uploads/2016/11/1478919636602-1-1.jpg) Medicinal cannabis helps Dr Huhana Hickey live a normal life despite the effects of her multiple sclerosis.\[/caption\]
 
 "There are so many people qualified for it, but they can't afford it, so they don't apply," he said.
 
@@ -42,7 +42,7 @@ Pharmac is open to funding medicinal cannabis products, but Director of Operatio
 
 "At this time Sativex remains unfunded," she said. "Pharmac routinely seeks advice where new
 
-\[caption id="attachment\_3580" align="alignright" width="526"\]![Former trade union boss Helen Kelly spoke openly about using black market cannabis during her battle with terminal cancer.](http://mcawarenessnz.org/wp-content/uploads/2016/11/1478919636602-3.jpg) Former trade union boss Helen Kelly spoke openly about using black market cannabis during her battle with terminal cancer.\[/caption\]
+\[caption id="attachment\_3580" align="alignright" width="526"\]![Former trade union boss Helen Kelly spoke openly about using black market cannabis during her battle with terminal cancer.](/wp-content/uploads/2016/11/1478919636602-3.jpg) Former trade union boss Helen Kelly spoke openly about using black market cannabis during her battle with terminal cancer.\[/caption\]
 
 information becomes available and can reconsider an application at any time.
 
@@ -64,4 +64,4 @@ Anyone who would like to follow her journey can watch the videos via her public 
 
 To Donate to Huhana to help with her medicine costs, go to the #MC410 fundraiser on [Givealittle](https://givealittle.co.nz/cause/legalmcfor10)
 
-[![givealittle](http://mcawarenessnz.org/wp-content/uploads/2015/06/givealittle.png)](https://givealittle.co.nz/cause/legalmcfor10)
+[![givealittle](/wp-content/uploads/2015/06/givealittle.png)](https://givealittle.co.nz/cause/legalmcfor10)

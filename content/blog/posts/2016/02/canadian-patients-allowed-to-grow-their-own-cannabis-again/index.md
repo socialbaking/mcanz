@@ -9,7 +9,7 @@ tags:
   - "cannabis"
 ---
 
-[![A group of British Columbia residents argued the law requiring medical marijuana patients to buy their cannabis was unconstitutional (Getty)](http://mcawarenessnz.org/wp-content/uploads/2016/02/marijuana-1200.jpg)](http://mcawarenessnz.org/wp-content/uploads/2016/02/marijuana-1200.jpg)
+[![A group of British Columbia residents argued the law requiring medical marijuana patients to buy their cannabis was unconstitutional (Getty)](/wp-content/uploads/2016/02/marijuana-1200.jpg)](/wp-content/uploads/2016/02/marijuana-1200.jpg)
 
 A group of British Columbia residents argued the law requiring medical marijuana patients to buy their cannabis was unconstitutional (Getty)
 

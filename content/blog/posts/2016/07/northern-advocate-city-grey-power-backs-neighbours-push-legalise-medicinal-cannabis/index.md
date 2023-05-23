@@ -13,7 +13,7 @@ tags:
   - "whangarei"
 ---
 
-\[caption id="attachment\_3235" align="alignnone" width="620"\]![Grey power](http://mcawarenessnz.org/wp-content/uploads/2016/07/Beverly-Aldridge.jpg) Otamatea Grey Power's Beverley Aldridge (left) and Kathleen Pattinson want cannabis legalised, despite never having used the drug, sparking a war of words with Grey Power's national body. Photo / John Stone\[/caption\]
+\[caption id="attachment\_3235" align="alignnone" width="620"\]![Grey power](/wp-content/uploads/2016/07/Beverly-Aldridge.jpg) Otamatea Grey Power's Beverley Aldridge (left) and Kathleen Pattinson want cannabis legalised, despite never having used the drug, sparking a war of words with Grey Power's national body. Photo / John Stone\[/caption\]
 
 Whangarei's Grey Power federation has voted to support a push by a fellow Northland federation to legalise medicinal cannabis and says it's not being naive in making the decision.
 

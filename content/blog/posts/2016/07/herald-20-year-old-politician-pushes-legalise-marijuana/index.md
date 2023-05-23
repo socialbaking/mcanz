@@ -28,7 +28,7 @@ She points to this year's presidential race in the United States as sparking a f
 
 She has just returned from a six-month stay in the US, after living in Ashland, Oregon. It was there she realised the benefits of serving the interests of the wider community.
 
-\[caption id="" align="alignnone" width="620"\]![Olivia Montgomery wants to legalise medical cannabis](https://mcanz.org.nz/wp-content/uploads/2022/04/SCCZEN_220716SPLMONTGOMERY_620x310.jpg) Olivia Montgomery is campaigning to be elected in the city's largest ward, Howick, in the upcoming local body elections.\[/caption\]
+\[caption id="" align="alignnone" width="620"\]![Olivia Montgomery wants to legalise medical cannabis](/wp-content/uploads/2022/04/SCCZEN_220716SPLMONTGOMERY_620x310.jpg) Olivia Montgomery is campaigning to be elected in the city's largest ward, Howick, in the upcoming local body elections.\[/caption\]
 
 Olivia Montgomery is campaigning to be elected in the city's largest ward, Howick, in the upcoming local body elections.
 

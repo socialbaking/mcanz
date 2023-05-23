@@ -31,7 +31,7 @@ Earlier this year a review of CBD was done by the World Health organizations exp
 
  
 
-![](https://mcawarenessnz.org/wp-content/uploads/2016/04/logo512.png)
+![](/wp-content/uploads/2016/04/logo512.png)
 
 _Shane Le Brun_
 

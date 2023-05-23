@@ -13,7 +13,7 @@ tags:
   - "warren"
 ---
 
-![DSCF3213](http://mcawarenessnz.org/wp-content/uploads/2016/06/DSCF3213-1024x768.jpg)Warren was diagnosed with Multiple Sclerosis (MS) in May 2013. Warren was just 41 years old at the time. MS causes damage to nerves in the body. Nerves in the brain and spine send messages to parts of the body. These messages help with bodily functions e.g.  Flexing and straightening muscles; for bladder function; for the mechanics of speech etc.
+![DSCF3213](/wp-content/uploads/2016/06/DSCF3213-1024x768.jpg)Warren was diagnosed with Multiple Sclerosis (MS) in May 2013. Warren was just 41 years old at the time. MS causes damage to nerves in the body. Nerves in the brain and spine send messages to parts of the body. These messages help with bodily functions e.g.  Flexing and straightening muscles; for bladder function; for the mechanics of speech etc.
 
 “I knew what MS was because my mother had MS. The doctors sent me for tests after I had suffered three episodes of bladder retention. I had an MRI, a spinal tap and lots of other tests”.
 

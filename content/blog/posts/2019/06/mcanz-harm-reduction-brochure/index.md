@@ -6,4 +6,4 @@ categories:
   - "resources"
 ---
 
-\[pdf-embedder url="https://mcanz.org.nz/wp-content/uploads/2019/06/MCANZ-HRB-FINAL.pdf"\]
+\[pdf-embedder url="/wp-content/uploads/2019/06/MCANZ-HRB-FINAL.pdf"\]

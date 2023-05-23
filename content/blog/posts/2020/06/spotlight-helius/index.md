@@ -12,7 +12,7 @@ tags:
   - "questionnaire"
 ---
 
-## ![](https://mcanz.org.nz/wp-content/uploads/2022/04/Helius-Brandmark-1024x413.jpg)
+## ![](/wp-content/uploads/2022/04/Helius-Brandmark-1024x413.jpg)
 
 ## Q1. Who are you, where are you based and what do you do?
 

@@ -13,7 +13,7 @@ tags:
 
 A special scheme providing medicinal cannabis to epileptic children too sick to join the upcoming standard clinical trial in NSW has shown "promising" early signs, though doctors have warned it is not a miracle cure.
 
-\[caption id="attachment\_3408" align="alignright" width="300"\]![NSW epidiolex trial](http://mcawarenessnz.org/wp-content/uploads/2016/08/buds-trimmed-300x200.jpg) About 20 children have already started using Epidiolex under NSW compassionate access scheme.\[/caption\]
+\[caption id="attachment\_3408" align="alignright" width="300"\]![NSW epidiolex trial](/wp-content/uploads/2016/08/buds-trimmed-300x200.jpg) About 20 children have already started using Epidiolex under NSW compassionate access scheme.\[/caption\]
 
 About 20 severely epileptic children have so far begun receiving the cannabis-based medicine Epidiolex under the NSW Government's Compassionate Access Scheme, with the same number again to join the scheme in the coming weeks.
 
@@ -55,7 +55,7 @@ But the scheme offered families hope.
 
 So far the child had responded well to the medicine.
 
-\[caption id="attachment\_3409" align="alignright" width="300"\]![Epidiolex](http://mcawarenessnz.org/wp-content/uploads/2016/08/epidiolex-100mg-carton-bottle-unenhanced-0074c-j10-300x225.png) Epidiolex, an investigational CBD extract projected to cost 2.5-5k USD per month\[/caption\]
+\[caption id="attachment\_3409" align="alignright" width="300"\]![Epidiolex](/wp-content/uploads/2016/08/epidiolex-100mg-carton-bottle-unenhanced-0074c-j10-300x225.png) Epidiolex, an investigational CBD extract projected to cost 2.5-5k USD per month\[/caption\]
 
 "Sometimes when it's early days you get what's called the honeymoon period so that the medicine works for a few months and then stops working but many of these families are fairly realistic about the whole thing," Dr Lawson said.
 

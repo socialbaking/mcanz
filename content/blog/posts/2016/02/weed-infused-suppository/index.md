@@ -14,7 +14,7 @@ tags:
 
  
 
-\[caption id="attachment\_2547" align="alignnone" width="810"\][![foria weed based suppository](http://mcawarenessnz.org/wp-content/uploads/2016/02/foria-suppository-810x450.jpg)](http://mcawarenessnz.org/wp-content/uploads/2016/02/foria-suppository-810x450.jpg) “Foria Relief”, a weed-infused suppository, claims to alleviate menstrual cramps in just 15 to 30 minutes after vaginal insertion\[/caption\]
+\[caption id="attachment\_2547" align="alignnone" width="810"\][![foria weed based suppository](/wp-content/uploads/2016/02/foria-suppository-810x450.jpg)](/wp-content/uploads/2016/02/foria-suppository-810x450.jpg) “Foria Relief”, a weed-infused suppository, claims to alleviate menstrual cramps in just 15 to 30 minutes after vaginal insertion\[/caption\]
 
 Most women can agree — periods are annoying. “Aunt Flo” comes to visit at the worst times, and she brings some nasty baggage; [bloating, cramps, and mood swings.](http://www.medicaldaily.com/menstrual-cycle-7-little-known-things-about-periods-and-female-body-330874) One company wants to turn painful periods into “chill” periods using marijuana, a drug known for medicinal, as well as recreational, uses.
 

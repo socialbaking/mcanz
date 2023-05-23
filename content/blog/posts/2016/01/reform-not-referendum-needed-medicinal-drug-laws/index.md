@@ -11,7 +11,7 @@ tags:
   - "the-press"
 ---
 
-[![1452495225867](http://mcawarenessnz.org/wp-content/uploads/2016/01/1452495225867.jpg)](http://mcawarenessnz.org/wp-content/uploads/2016/01/1452495225867.jpg)
+[![1452495225867](/wp-content/uploads/2016/01/1452495225867.jpg)](/wp-content/uploads/2016/01/1452495225867.jpg)
 
 Max Mason
 

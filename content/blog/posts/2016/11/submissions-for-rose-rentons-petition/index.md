@@ -6,7 +6,7 @@ categories:
   - "nz-news"
 ---
 
-\[caption id="attachment\_3556" align="alignright" width="292"\]![petition](http://mcawarenessnz.org/wp-content/uploads/2016/11/Petition-292x300.jpg) Rose Renton delivering over 17,000 signatures to Labour MP Damian O'Connor\[/caption\]
+\[caption id="attachment\_3556" align="alignright" width="292"\]![petition](/wp-content/uploads/2016/11/Petition-292x300.jpg) Rose Renton delivering over 17,000 signatures to Labour MP Damian O'Connor\[/caption\]
 
 Following on from Rose's successful petition, which heralded an unprecedented amount of signatures for a Cannabis Law Reform petition, the health select committee is going to be formally asking for submissions, so its time to get cracking!
 
@@ -14,7 +14,7 @@ We realize that not everyone is in a position to write their own submissions, du
 
 For those who can write their own, but are lacking in inspiration, we hope to publish a few drafts over the coming weeks to help,
 
-In the mean time, attached here is a generic submission template.[submission-template-1](http://mcawarenessnz.org/wp-content/uploads/2016/11/submission-template-1.docx)  and here is the [Governments resources](https://www.parliament.nz/en/pb/sc/how-to-make-a-submission/) on making a submission.  If you would like to personally present your submission, either in person, or via phone call or video link, (skype) then at the beginning of your submission please write "I would like to speak to my submission"
+In the mean time, attached here is a generic submission template.[submission-template-1](/wp-content/uploads/2016/11/submission-template-1.docx)  and here is the [Governments resources](https://www.parliament.nz/en/pb/sc/how-to-make-a-submission/) on making a submission.  If you would like to personally present your submission, either in person, or via phone call or video link, (skype) then at the beginning of your submission please write "I would like to speak to my submission"
 
 Completed submissions can be emailed to health@parliament.govt.nz or to Rose at contact@itsmedicine.co.nz
 

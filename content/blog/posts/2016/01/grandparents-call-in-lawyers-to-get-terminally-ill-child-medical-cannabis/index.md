@@ -14,7 +14,7 @@ tags:
 
 In August last year the child was given nine to 12 months to live after being diagnosed with an inoperable tumour on her spinal cord.
 
-![Medicinal cannabis](https://mcanz.org.nz/wp-content/uploads/2022/04/eight_col_043_dpa-pa_150617-99-03176_dpai.jpg)
+![Medicinal cannabis](/wp-content/uploads/2022/04/eight_col_043_dpa-pa_150617-99-03176_dpai.jpg)
 
 Photo: AFP
 

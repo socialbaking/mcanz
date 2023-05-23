@@ -12,7 +12,7 @@ tags:
   - "medical"
 ---
 
-![Why Germany just legalized medical marijuana](https://mcanz.org.nz/wp-content/uploads/2017/01/Why-Germany-just-legalized-medical-marijuana.webp)
+![Why Germany just legalized medical marijuana](/wp-content/uploads/2017/01/Why-Germany-just-legalized-medical-marijuana.webp)
 
 **DPA/The Local**
 

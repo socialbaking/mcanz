@@ -12,7 +12,7 @@ tags:
   - "seizures"
 ---
 
-> **![The dealers ripping off desperate families](http://mcawarenessnz.org/wp-content/uploads/2015/05/the-dealers-ripping-off-desperate-families-300x169.jpg)PATIENTS who rely on medicinal cannabis are being forced to grow it themselves as unscrupulous dealers capitalise on the vulnerable.**
+> **![The dealers ripping off desperate families](/wp-content/uploads/2015/05/the-dealers-ripping-off-desperate-families-300x169.jpg)PATIENTS who rely on medicinal cannabis are being forced to grow it themselves as unscrupulous dealers capitalise on the vulnerable.**
 > 
 > David Stevens, whose nine-year-old daughter is reliant on cannabis oil to quell the constant seizures she suffers from her rare form of epilepsy, said the government needed to put checks and balances in place to protect families, who were often desperate.
 > 

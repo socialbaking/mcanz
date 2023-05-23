@@ -21,7 +21,7 @@ Northland woman Alisha Butt has been using Sativex since September to control se
 
 Her parents, Sushila and Royd Butt, believed a lack of funding for the drug was preventing people in the community applying to use it. Mrs Butt said it cost more than $1000 for a month's supply.
 
-\[caption id="attachment\_2563" align="alignright" width="411"\]![Alisha Butt, the first patient in NZ to have Sativex 100% funded by her local DHB](http://mcawarenessnz.org/wp-content/uploads/2016/02/12697015_974160415987735_7702115899702153750_o-300x225.jpg) Alisha Butt, the first patient in NZ to have Sativex 100% funded by her local DHB\[/caption\]
+\[caption id="attachment\_2563" align="alignright" width="411"\]![Alisha Butt, the first patient in NZ to have Sativex 100% funded by her local DHB](/wp-content/uploads/2016/02/12697015_974160415987735_7702115899702153750_o-300x225.jpg) Alisha Butt, the first patient in NZ to have Sativex 100% funded by her local DHB\[/caption\]
 
 The Northland District Health Board (DHB) is funding the medication for Alisha for as long as it is needed and remains effective.
 
@@ -35,7 +35,7 @@ Mrs Yeats the drug wasn't something she could afford without public help.
 
 One Dollar Warriors - a group which raises funds to fight life threatening illnesses - set up a Givealittle fund for the Yeats family and collected enough to pay for Grace's Sativex for two years.
 
-\[caption id="attachment\_516" align="alignright" width="490"\]![daily post](http://mcawarenessnz.org/wp-content/uploads/2015/06/daily-post-300x150.jpg) Zoe Jeffries, a young patient who has found Sativex successfull, with the initial trial extended.\[/caption\]
+\[caption id="attachment\_516" align="alignright" width="490"\]![daily post](/wp-content/uploads/2015/06/daily-post-300x150.jpg) Zoe Jeffries, a young patient who has found Sativex successfull, with the initial trial extended.\[/caption\]
 
 Rotorua girl Zoe Jeffries has uncontrolled epilepsy, spastic quadriplegia cerebral palsy, microcephaly, cerebral visual impairment and has had severe seizures since birth.
 

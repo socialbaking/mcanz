@@ -12,7 +12,7 @@ tags:
   - "usa"
 ---
 
-\[caption id="attachment\_3344" align="alignright" width="840"\]![Calm/CBD Spray](http://mcawarenessnz.org/wp-content/uploads/2016/08/Florida-Cannabis_1-840x440.jpg) Rick Murphy, with his high CBD sublingual Spray, similar to Sativex\[/caption\]
+\[caption id="attachment\_3344" align="alignright" width="840"\]![Calm/CBD Spray](/wp-content/uploads/2016/08/Florida-Cannabis_1-840x440.jpg) Rick Murphy, with his high CBD sublingual Spray, similar to Sativex\[/caption\]
 
 At 10:12 a.m. Monday, **Rich Murphy** was handed a one-ounce bottle of hope.
 

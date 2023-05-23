@@ -17,7 +17,7 @@ Duncan, 41, the son of David Bowie, told how his 33-year-old wife has been using
 
 And the award-winning director of hit movies Moon and Source Code, tweeted his appreciation for 'one of the unique aspects of living in California', adding: 'It's been both wonderful & at times hilarious to see Rodene finding a world of relief from cancer through these drugs..
 
-![Brave: Duncan Jones and his wife Rodene Ronquillo shaved their heads in preparation for her chemotherapy treatment](https://mcanz.org.nz/wp-content/uploads/2022/04/article-2245851-1671F277000005DC-871_634x731.jpg)
+![Brave: Duncan Jones and his wife Rodene Ronquillo shaved their heads in preparation for her chemotherapy treatment](/wp-content/uploads/2022/04/article-2245851-1671F277000005DC-871_634x731.jpg)
 
 Brave: Duncan Jones and his wife Rodene Ronquillo shaved their heads in preparation for her chemotherapy treatment
 
@@ -33,7 +33,7 @@ Duncan and Rodene became engaged last summer, but were prompted to marry followi
 
 They then made the brave decision to make Rodene's diagnosis public and have now raised more than $6000 for [The Breast Cancer Research Foundation](http://www.fundraiseforbcrf.org/faf/donorReg/donorPledge.asp?ievent=1021963&supid=374586538) \- with a target of $11,612.
 
-![Stunning: Duncan Jones and wife, photographer Rodene Ronquillo, seen together in New York in March 2011](https://mcanz.org.nz/wp-content/uploads/2022/04/article-2245851-1671F4E8000005DC-781_634x542.jpg)
+![Stunning: Duncan Jones and wife, photographer Rodene Ronquillo, seen together in New York in March 2011](/wp-content/uploads/2022/04/article-2245851-1671F4E8000005DC-781_634x542.jpg)
 
 Stunning: Duncan Jones and wife, photographer Rodene Ronquillo, seen together in New York in March 2011
 

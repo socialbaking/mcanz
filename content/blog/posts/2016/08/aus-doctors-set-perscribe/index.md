@@ -17,7 +17,7 @@ Cannabis-based medicines have so far been available only to patients enrolled in
 
 > “People who are seriously ill should be able to access these medicines if they are the most appropriate next step in their treatment,” Mr Baird said.
 
-\[caption id="attachment\_3265" align="alignnone" width="650"\]![Mike Baird](http://mcawarenessnz.org/wp-content/uploads/2016/08/Mike-Baird.jpg) NSW Premier Mike Baird and Minister for Medical Research Pru Goward. Picture: Tim Hunter.\[/caption\]
+\[caption id="attachment\_3265" align="alignnone" width="650"\]![Mike Baird](/wp-content/uploads/2016/08/Mike-Baird.jpg) NSW Premier Mike Baird and Minister for Medical Research Pru Goward. Picture: Tim Hunter.\[/caption\]
 
 The Poisons and Therapeutic Goods Amendment Regulation 2016 to take effect tomorrow will allow doctors to apply to NSW Health to prescribe cannabis-based products that are not on the Australian Register of Therapeutic Goods.
 

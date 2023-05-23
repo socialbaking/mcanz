@@ -12,7 +12,7 @@ tags:
   - "questionnaire"
 ---
 
-## ![](https://mcanz.org.nz/wp-content/uploads/2022/04/medleaf-logo.png)
+## ![](/wp-content/uploads/2022/04/medleaf-logo.png)
 
 ## Q1. Who are you, where are you based and what do you do?
 

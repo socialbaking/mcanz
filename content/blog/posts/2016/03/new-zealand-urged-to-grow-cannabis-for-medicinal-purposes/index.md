@@ -6,13 +6,13 @@ categories:
   - "nz-news"
 ---
 
-\[caption id="attachment\_2793" align="alignnone" width="620"\][![Eminent horticulture researcher Dr Mike Nichols in a cannabis plant factory in the Netherlands. He is one of only 25 honorary members of the International Society for Horticulture Science.](http://mcawarenessnz.org/wp-content/uploads/2016/03/mike-nicholls.jpg)](http://mcawarenessnz.org/wp-content/uploads/2016/03/mike-nicholls.jpg) Eminent horticulture researcher Dr Mike Nichols in a cannabis plant factory in the Netherlands. He is one of only 25 honorary members of the International Society for Horticulture Science.\[/caption\]
+\[caption id="attachment\_2793" align="alignnone" width="620"\][![Eminent horticulture researcher Dr Mike Nichols in a cannabis plant factory in the Netherlands. He is one of only 25 honorary members of the International Society for Horticulture Science.](/wp-content/uploads/2016/03/mike-nicholls.jpg)](/wp-content/uploads/2016/03/mike-nicholls.jpg) Eminent horticulture researcher Dr Mike Nichols in a cannabis plant factory in the Netherlands. He is one of only 25 honorary members of the International Society for Horticulture Science.\[/caption\]
 
 New Zealand should grow medicinal cannabis because of its potentially good returns, a Massey University scientist says.
 
 Dr Mike Nichols, who has also researched hemp growing, said New Zealand risked losing out on a profitable industry, in the same way it once turned down the chance to grow poppies for legal codeine and morphine.
 
-\[caption id="attachment\_2794" align="alignnone" width="620"\][![HK3](http://mcawarenessnz.org/wp-content/uploads/2016/03/hk3.jpg)](http://mcawarenessnz.org/wp-content/uploads/2016/03/hk3.jpg) Union advocate Helen Kelly recently highlighted the issue of medicinal cannabis as a painkiller.\[/caption\]
+\[caption id="attachment\_2794" align="alignnone" width="620"\][![HK3](/wp-content/uploads/2016/03/hk3.jpg)](/wp-content/uploads/2016/03/hk3.jpg) Union advocate Helen Kelly recently highlighted the issue of medicinal cannabis as a painkiller.\[/caption\]
 
 Even though New Zealand scientist Ralph Ballinger was the world's lead researcher into poppy growing in the 1950s, his work never resulted in an industry.
 

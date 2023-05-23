@@ -12,7 +12,7 @@ tags:
 
 **Trade unionist Helen Kelly says she's frustrated the Ministry of Health has turned down her application to use medical cannabis.**
 
-![no caption](https://mcanz.org.nz/wp-content/uploads/2022/04/eight_col_1M1A0422.jpg)
+![no caption](/wp-content/uploads/2022/04/eight_col_1M1A0422.jpg)
 
 Photo: RNZ / Alexander Robertson
 

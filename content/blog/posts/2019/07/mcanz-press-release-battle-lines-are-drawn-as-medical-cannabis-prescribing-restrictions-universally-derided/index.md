@@ -20,4 +20,4 @@ MCANZ has reached out to both the NZMA and RNZCGP to try and develop  consensus
 
  
 
-\[caption id="" align="alignnone" width="264"\]![](https://mcanz.org.nz/wp-content/uploads/2022/04/1b7f0369-a0f3-4d46-9582-57549064edec.png) Table 4 of the consultation document detailing the proposed prescribing.\[/caption\]
+\[caption id="" align="alignnone" width="264"\]![](/wp-content/uploads/2022/04/1b7f0369-a0f3-4d46-9582-57549064edec.png) Table 4 of the consultation document detailing the proposed prescribing.\[/caption\]

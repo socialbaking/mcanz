@@ -10,4 +10,4 @@ tags:
   - "review"
 ---
 
-\[pdf-embedder url="https://mcanz.org.nz/wp-content/uploads/2020/04/Nielsen\_et\_al-2019-Cochrane\_Database\_of\_Systematic\_Reviews.pdf"\]
+\[pdf-embedder url="/wp-content/uploads/2020/04/Nielsen\_et\_al-2019-Cochrane\_Database\_of\_Systematic\_Reviews.pdf"\]

@@ -18,7 +18,7 @@ The 13-year-old has Dravet syndrome, a rare form of epilepsy, and suffered up to
 
 "At the time, I didn't realise how difficult it would be to secure \[Sativex\].
 
-\[caption id="attachment\_3388" align="alignright" width="620"\]![Sativex has been legal in New Zealand since 2008 but has only partial approval, meaning each application has to be authorised through the Health Minister's office.](http://mcawarenessnz.org/wp-content/uploads/2016/08/Paige1.jpg) Sativex has been legal in New Zealand since 2008 but has only partial approval, meaning each application has to be authorised through the Health Minister's office.\[/caption\]
+\[caption id="attachment\_3388" align="alignright" width="620"\]![Sativex has been legal in New Zealand since 2008 but has only partial approval, meaning each application has to be authorised through the Health Minister's office.](/wp-content/uploads/2016/08/Paige1.jpg) Sativex has been legal in New Zealand since 2008 but has only partial approval, meaning each application has to be authorised through the Health Minister's office.\[/caption\]
 
 "It was such a taboo word, the 'c' word."
 
@@ -50,7 +50,7 @@ The charity's coordinator, Coordinator Shane Le Brun, agreed that public percept
 
 He said there are just under 40 people in New Zealand who are prescribed Sativex, with three of them being children.
 
-\[caption id="attachment\_3389" align="alignright" width="620"\]![Paige Gallien 2](http://mcawarenessnz.org/wp-content/uploads/2016/08/Paige2.jpg) Sativex is used for a variety of medical conditions, but is not currently funded by the New Zealand Government.\[/caption\]
+\[caption id="attachment\_3389" align="alignright" width="620"\]![Paige Gallien 2](/wp-content/uploads/2016/08/Paige2.jpg) Sativex is used for a variety of medical conditions, but is not currently funded by the New Zealand Government.\[/caption\]
 
 In addition to the Sativex, Paige is also on four other medications for her epilepsy. Days after her first dose, two years ago, she drew a picture of a smiley face, which was a massive achievement.
 

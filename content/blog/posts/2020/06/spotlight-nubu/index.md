@@ -12,7 +12,7 @@ tags:
   - "questionaire"
 ---
 
-![ NUBU Pharmaceuticals' logo](https://mcanz.org.nz/wp-content/uploads/2022/04/nubu_logo-1024x341.png)
+![ NUBU Pharmaceuticals' logo](/wp-content/uploads/2022/04/nubu_logo-1024x341.png)
 
 ## Q1. Who are you, where are you based and what do you do?
 

@@ -21,13 +21,13 @@ tags:
   - "yekhtim"
 ---
 
-[![c1](http://mcawarenessnz.org/wp-content/uploads/2015/12/c1.jpg?w=300)](http://mcawarenessnz.org/wp-content/uploads/2015/12/c1.jpg)
+[![c1](/wp-content/uploads/2015/12/c1.jpg?w=300)](/wp-content/uploads/2015/12/c1.jpg)
 
-Cannabidiol ([CBD](https://mcanz.org.nz/individual-cannabinoids/cbd-and-cbda/)) has been the focus of many medical cannabis studies, and continues to prove itself as a powerful anti-inflammatory drug. What makes CBD even more desirable for some patients is that it does not cause the psychoactive effects associated with tetrahydrocannabinol (THC).
+Cannabidiol ([CBD](/individual-cannabinoids/cbd-and-cbda/)) has been the focus of many medical cannabis studies, and continues to prove itself as a powerful anti-inflammatory drug. What makes CBD even more desirable for some patients is that it does not cause the psychoactive effects associated with tetrahydrocannabinol (THC).
 
 An extremely interesting study ([Overcoming the Bell-Shaped Dose-Response of Cannabidiol by using _Cannabis_ Extract Enriched in Cannabidiol](http://www.scirp.org/Journal/PaperInformation.aspx?PaperID=53912#.VP4EIildXvY)) was just published out of the Lautenberg Center for General and Tumor Immunology in Jerusalem. The study examines the effectiveness of administering isolated cannabinoid extracts (a CBD-only formula) versus whole plant extracts (which contain the full range of the plant’s cannabinoid content).
 
-[![Cannabis Testing at The Hebrew University of Jerusalem, Israel (source)](https://mcanz.org.nz/wp-content/uploads/2022/04/marijuana-and-israeli-flag-685x425-1.jpg)](https://mcanz.org.nz/wp-content/uploads/2022/04/marijuana-and-israeli-flag-685x425-1.jpg)
+[![Cannabis Testing at The Hebrew University of Jerusalem, Israel (source)](/wp-content/uploads/2022/04/marijuana-and-israeli-flag-685x425-1.jpg)](/wp-content/uploads/2022/04/marijuana-and-israeli-flag-685x425-1.jpg)
 
 Cannabis Testing at The Hebrew University of Jerusalem, Israel ([source](https://medicalmarijuana411.com))
 
@@ -43,7 +43,7 @@ The data graphs below compare isolated cannabidiol ([CBD](https://www.smokerepor
 
 **Injections**: The isolated CBD injection was moderately effective at 5 mg/kg, but became less effective when the dose was higher. The shape of the graph resembles a bell-curve, indicating that the CBD-only formula lost effectiveness after a certain dose. The results from the cannabis flower extract showed that the synergy between the cannabinoids yielded greater relief as the dosage was increased, which is desirable in medicine.
 
-[![Injections of CBD and clone 202 extract (mg/kg)](https://mcanz.org.nz/wp-content/uploads/2022/04/Screen-Shot-2015-03-09-at-12.16.15-PM.png)](https://mcanz.org.nz/wp-content/uploads/2022/04/Screen-Shot-2015-03-09-at-12.16.15-PM.png)
+[![Injections of CBD and clone 202 extract (mg/kg)](/wp-content/uploads/2022/04/Screen-Shot-2015-03-09-at-12.16.15-PM.png)](/wp-content/uploads/2022/04/Screen-Shot-2015-03-09-at-12.16.15-PM.png)
 
 Injections of CBD and Clone 202 (Full-Spectrum) Extract (mg/kg) ([source](http://www.scirp.org/Journal/PaperInformation.aspx?PaperID=53912#.VP4EIildXvY))
 
@@ -51,7 +51,7 @@ Injections of CBD and Clone 202 (Full-Spectrum) Extract (mg/kg) ([source](http:/
 
 **Oral Consumption**: When the CBD and the full-spectrum extract where administered orally, the results were extremely similar to the injection test. Graph (c) shows CBD peaking at 25 mg/kg, and then losing any additional efficacy as the dose was increased. The whole plant extract provided more relief for inflammation and pain sensation as the dose was increased. It is important for the effects of the medication to reflect the dosage, as every patient is different and will require unique treatment based on aspects like tolerance.
 
-[![CBD and Clone 202 Extract Administered Orally](https://mcanz.org.nz/wp-content/uploads/2022/04/Screen-Shot-2015-03-09-at-12.33.10-PM.png)](https://mcanz.org.nz/wp-content/uploads/2022/04/Screen-Shot-2015-03-09-at-12.33.10-PM.png)
+[![CBD and Clone 202 Extract Administered Orally](/wp-content/uploads/2022/04/Screen-Shot-2015-03-09-at-12.33.10-PM.png)](/wp-content/uploads/2022/04/Screen-Shot-2015-03-09-at-12.33.10-PM.png)
 
 CBD and Clone 202 (Full-Spectrum) Extract Administered Orally ([source](http://www.scirp.org/Journal/PaperInformation.aspx?PaperID=53912#.VP4EIildXvY))
 
@@ -59,7 +59,7 @@ CBD and Clone 202 (Full-Spectrum) Extract Administered Orally ([source](http://w
 
 **Measuring Levels of TNFα**: Production of TNFα ([tumor necrosis factor alpha](http://en.wikipedia.org/wiki/Tumor_necrosis_factor_alpha)) in the body leads to swelling from fluid accumulation in body tissues. The figure below represents the effectiveness of CBD and whole plant extract in suppressing TNFα production and reducing swelling. CBD proved effective only at a specific dose (25 mg/kg), while again the full-spectrum extract (concentrated from CBD-rich flowers) continued to suppress TNFα production to extremely low levels as dosage was increased.
 
-[![Reduction in TNFα](https://mcanz.org.nz/wp-content/uploads/2022/04/Screen-Shot-2015-03-09-at-12.47.54-PM.png)](https://mcanz.org.nz/wp-content/uploads/2022/04/Screen-Shot-2015-03-09-at-12.47.54-PM.png)
+[![Reduction in TNFα](/wp-content/uploads/2022/04/Screen-Shot-2015-03-09-at-12.47.54-PM.png)](/wp-content/uploads/2022/04/Screen-Shot-2015-03-09-at-12.47.54-PM.png)
 
 Reduction in Levels of TNFα ([source](http://www.scirp.org/Journal/PaperInformation.aspx?PaperID=53912#.VP4EIildXvY))
 
@@ -67,7 +67,7 @@ Reduction in Levels of TNFα ([source](http://www.scirp.org/Journal/PaperInforma
 
 **Comparing Cannabis and Commercial Drugs**: The final graph shows the results of purified CBD and the full-spectrum extract when compared to the commercial drugs aspirin and tramadol. Aspirin had a moderate effect on tissue swelling, while tramadol had barely any effect. Both of the cannabis medicines prevented the swelling of the paw to a greater extent than either of the commercial drugs (a). Both of the commercial drugs did more for direct pain sensation (b), but CBD and the full-spectrum extract produced remarkable suppression of TNFα, while the commercial drugs did very little (c). Therefore, cannabis has medical properties not found in common inflammation drugs.
 
-[![Comparing Commercial Drugs with CBD and Whole Plant Cannabis Extracts (source)](https://mcanz.org.nz/wp-content/uploads/2022/04/Screen-Shot-2015-03-09-at-1.06.01-PM.png)](https://mcanz.org.nz/wp-content/uploads/2022/04/Screen-Shot-2015-03-09-at-1.06.01-PM.png)
+[![Comparing Commercial Drugs with CBD and Whole Plant Cannabis Extracts (source)](/wp-content/uploads/2022/04/Screen-Shot-2015-03-09-at-1.06.01-PM.png)](/wp-content/uploads/2022/04/Screen-Shot-2015-03-09-at-1.06.01-PM.png)
 
 Comparing Commercial Drugs with CBD and Whole Plant Cannabis Extracts ([source](http://www.scirp.org/Journal/PaperInformation.aspx?PaperID=53912#.VP4EIildXvY))
 

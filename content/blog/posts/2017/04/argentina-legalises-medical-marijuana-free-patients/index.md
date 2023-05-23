@@ -12,7 +12,7 @@ tags:
   - "medical"
 ---
 
-![](http://mcawarenessnz.org/wp-content/uploads/2017/04/argentena-lgalise-mediacl-cannabis-300x187.jpg)
+![](/wp-content/uploads/2017/04/argentena-lgalise-mediacl-cannabis-300x187.jpg)
 
 - The Argentinean Senate passed a bill legalising medical cannabis following Congress’s approval of the move late last year
 - Certain patients will have free access to the medication

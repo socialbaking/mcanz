@@ -11,7 +11,7 @@ tags:
   - "zb"
 ---
 
-\[audio mp3="http://mcawarenessnz.org/wp-content/uploads/2016/07/Christina\_on\_giving\_her\_terminally-ill\_dad\_cannabi.mp3"\]\[/audio\]
+\[audio mp3="/wp-content/uploads/2016/07/Christina\_on\_giving\_her\_terminally-ill\_dad\_cannabi.mp3"\]\[/audio\]
 
 ## Christina on giving her terminally-ill dad cannabis: 'I can't believe how well it's working'
 

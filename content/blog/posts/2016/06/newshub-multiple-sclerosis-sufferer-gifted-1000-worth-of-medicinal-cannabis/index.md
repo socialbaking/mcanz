@@ -13,11 +13,11 @@ tags:
   - "zellweger"
 ---
 
-\[caption id="attachment\_3148" align="alignnone" width="700"\]![Huhana-Hickey-1200](http://mcawarenessnz.org/wp-content/uploads/2016/06/Huhana-Hickey-1200.jpg) Dr Huhana Hickey MNZM\[/caption\]
+\[caption id="attachment\_3148" align="alignnone" width="700"\]![Huhana-Hickey-1200](/wp-content/uploads/2016/06/Huhana-Hickey-1200.jpg) Dr Huhana Hickey MNZM\[/caption\]
 
 A multiple sclerosis sufferer has been gifted an extra month of medicinal cannabis treatment thanks to th e generosity of a young couple from central Otago. Peter and Ashleigh Brown spent more than a year battling for access to Sativex for their son, Riley, who was born with the rare congenital disorder Zellweger syndrome. Tragically, Riley died in April on the very day he was supposed to begin treatment, meaning they never found out whether it could have relieved his suffering.
 
-\[caption id="attachment\_3149" align="alignnone" width="960"\]![peterashleighbrown](http://mcawarenessnz.org/wp-content/uploads/2016/06/peterashleighbrown.jpg) Peter, Ashleigh and Riley Brown with Ashleigh's parents, who paid for Riley's Sativex medication\[/caption\]
+\[caption id="attachment\_3149" align="alignnone" width="960"\]![peterashleighbrown](/wp-content/uploads/2016/06/peterashleighbrown.jpg) Peter, Ashleigh and Riley Brown with Ashleigh's parents, who paid for Riley's Sativex medication\[/caption\]
 
 Peter, Ashleigh and Riley Brown with Ashleigh's parents, who paid for Riley's Sativex medication Mother Ashleigh says it was a heart-breaking experience. "It was just so gutting that 14 months of hard work trying to get it for Riley, and then the day he was going to start it was the day that we lost him." Since then they've had the unused medicine sitting in their fridge at home while they've pondered what to do with it. They agreed it didn't seem right to let it go to waste. "We could either take it back to the pharmacy for them to destroy it, but $1000 is a lot of money to just put down the drain, or we could pass it on to someone who also has a prescription for it," says Ms Brown.
 

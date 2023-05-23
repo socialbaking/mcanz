@@ -8,7 +8,7 @@ tags:
   - "press-release-mcanz-medical-cannabis-awareness"
 ---
 
-![logo512](http://mcawarenessnz.org/wp-content/uploads/2016/04/logo512.png)Medical Cannabis Awareness New Zealand
+![logo512](/wp-content/uploads/2016/04/logo512.png)Medical Cannabis Awareness New Zealand
 
 Launch Press Release
 

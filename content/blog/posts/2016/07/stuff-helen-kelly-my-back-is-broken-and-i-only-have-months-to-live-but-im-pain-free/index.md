@@ -14,7 +14,7 @@ tags:
   - "morphine"
 ---
 
-\[video width="640" height="360" mp4="http://mcawarenessnz.org/wp-content/uploads/2016/07/HelenKellyInterview.mp4"\]\[/video\]
+\[video width="640" height="360" mp4="/wp-content/uploads/2016/07/HelenKellyInterview.mp4"\]\[/video\]
 
 Tumours have broken Helen Kelly's back and she only has months to live but illegally taking cannabis means she's pain free.
 
@@ -22,13 +22,13 @@ The former Council of Trade Unions president was diagnosed with terminal lung ca
 
 "I am going to die very soon, there's no cure, it's grown like crazy."
 
-![1469173740442](http://mcawarenessnz.org/wp-content/uploads/2016/07/1469173740442.jpg)
+![1469173740442](/wp-content/uploads/2016/07/1469173740442.jpg)
 
 Almost 18 months later Kelly says the only thing that's changed between now and pre-diagnosis is she's a bit "slow"
 
 "I've still got all the symptoms of coughing and being weak but living without pain is sensational."
 
-\[caption id="attachment\_3188" align="alignnone" width="620"\]![1469168330316](http://mcawarenessnz.org/wp-content/uploads/2016/07/1469168330316.jpg) Helen Kelly says she thrives on her support circle, they cheer her up.\[/caption\]
+\[caption id="attachment\_3188" align="alignnone" width="620"\]![1469168330316](/wp-content/uploads/2016/07/1469168330316.jpg) Helen Kelly says she thrives on her support circle, they cheer her up.\[/caption\]
 
 Kelly takes 10mgs of slow-release morphine twice a day but by the time she gets to bed the morphine's stopped working and she's "aching".
 
@@ -36,7 +36,7 @@ Kelly takes 10mgs of slow-release morphine twice a day but by the time she gets 
 
 "Cannabis is the only thing that gives me relief, it lets me sleep all night."
 
-\[caption id="attachment\_3189" align="alignnone" width="620"\]![1469168330316 (1)](http://mcawarenessnz.org/wp-content/uploads/2016/07/1469168330316-1.jpg) Eighteen months after being diagnosed with terminal cancer and being given about seven weeks to live, Helen Kelly is pain free because of cannabis.\[/caption\]
+\[caption id="attachment\_3189" align="alignnone" width="620"\]![1469168330316 (1)](/wp-content/uploads/2016/07/1469168330316-1.jpg) Eighteen months after being diagnosed with terminal cancer and being given about seven weeks to live, Helen Kelly is pain free because of cannabis.\[/caption\]
 
 Kelly's firmly in the camp of decriminalising cannabis and is fighting hard for affordable medicinal cannabis to be made available in New Zealand.
 

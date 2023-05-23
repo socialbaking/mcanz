@@ -13,7 +13,7 @@ tags:
   - "otamatea"
 ---
 
-\[caption id="attachment\_3025" align="alignright" width="522"\]![Bill's been given five months to live. He doesn't want to become a criminal, but he says he's got no choice.](http://mcawarenessnz.org/wp-content/uploads/2016/04/Bill.jpg) Bill's been given five months to live. He doesn't want to become a criminal, but he says he's got no choice.\[/caption\]
+\[caption id="attachment\_3025" align="alignright" width="522"\]![Bill's been given five months to live. He doesn't want to become a criminal, but he says he's got no choice.](/wp-content/uploads/2016/04/Bill.jpg) Bill's been given five months to live. He doesn't want to become a criminal, but he says he's got no choice.\[/caption\]
 
 A Christchurch man dying of cancer fears he will have to become a criminal if he cannot legally access medicinal cannabis.
 

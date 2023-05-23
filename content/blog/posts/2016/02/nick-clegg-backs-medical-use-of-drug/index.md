@@ -13,7 +13,7 @@ tags:
   - "uk"
 ---
 
-\[caption id="attachment\_2584" align="alignnone" width="1024"\][![Nick Clegg said the issue should be viewed separately from that of wider drug use Getty Images](http://mcawarenessnz.org/wp-content/uploads/2016/02/web-nick-clegg-getty.jpg?w=1024)](http://mcawarenessnz.org/wp-content/uploads/2016/02/web-nick-clegg-getty.jpg) Nick Clegg said the issue should be viewed separately from that of wider drug use Getty Images\[/caption\]
+\[caption id="attachment\_2584" align="alignnone" width="1024"\][![Nick Clegg said the issue should be viewed separately from that of wider drug use Getty Images](/wp-content/uploads/2016/02/web-nick-clegg-getty.jpg?w=1024)](/wp-content/uploads/2016/02/web-nick-clegg-getty.jpg) Nick Clegg said the issue should be viewed separately from that of wider drug use Getty Images\[/caption\]
 
 A campaign to legalise the medical use of cannabis is being launched amid warnings that up to 1.1 million people across Britain are currently breaking the law by taking the drug to combat the pain of chronic conditions.
 

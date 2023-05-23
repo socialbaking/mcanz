@@ -46,7 +46,7 @@ One of the main considerations in choosing a vaporiser is whether to buy a porta
 
 Some desktop models offer advanced features that are helpful for some users. For example, some desktop models come with a ‘balloon’, essentially a reusable plastic bag which stores the vapour, which can then be sipped slowly for hours if desired. A balloon also allows the vapour to cool down before inhaling, which can benefit more sensitive users.
 
-\[caption id="attachment\_7238" align="alignright" width="266"\]![](https://mcanz.org.nz/wp-content/uploads/2022/04/storz___bickel_-_volcano_classic_-_how_to_LOW_RES_1_of_18-300x200.jpg) The Volcano is the gold standard in desktop vapes and comes in a Medical device variant.\[/caption\]
+\[caption id="attachment\_7238" align="alignright" width="266"\]![](/wp-content/uploads/2022/04/storz___bickel_-_volcano_classic_-_how_to_LOW_RES_1_of_18-300x200.jpg) The Volcano is the gold standard in desktop vapes and comes in a Medical device variant.\[/caption\]
 
 Another consideration in choosing a vaporiser is the mode of heating. Most vaporisers heat cannabis through one of two main methods: conduction and convection. Conduction involves directly heating the cannabis with a hot surface; this is a less expensive technology but is also a lower-precision mode of heating. Heat is distributed unevenly inside the vaping chamber, so temperature is less precisely controlled.
 
@@ -60,7 +60,7 @@ Another consideration is whether to vape dried herbal cannabis, or whether to va
 
  
 
-\[caption id="attachment\_7239" align="alignright" width="175"\]![](https://mcanz.org.nz/wp-content/uploads/2022/04/Vape-Cartridges-Online-300x300.jpeg) In the USA, quality control has been lax, leading to some heavy metal contamination in vaporizer cartridges.\[/caption\]
+\[caption id="attachment\_7239" align="alignright" width="175"\]![](/wp-content/uploads/2022/04/Vape-Cartridges-Online-300x300.jpeg) In the USA, quality control has been lax, leading to some heavy metal contamination in vaporizer cartridges.\[/caption\]
 
 Some cheaply made cannabis oil vaporiser cartridges have also been found to leach heavy metals (10). So, while vaping concentrated cannabis oil is not inherently dangerous, it pays to be careful around commercially made cannabis oil vaporisers.
 
@@ -80,7 +80,7 @@ At higher temperatures, the cannabinoids (including THC and CBD) become more dom
 
 Happy vaping!
 
-MCANZ now offers a small range of Vaporising products selected for their ease of use (for those lacking dexterity in their hands), longevity (replaceable batteries) overall quality and price, [click here to see our range of](https://mcanz.org.nz/product-category/vaporisers/) vaporisers.
+MCANZ now offers a small range of Vaporising products selected for their ease of use (for those lacking dexterity in their hands), longevity (replaceable batteries) overall quality and price, [click here to see our range of](/product-category/vaporisers/) vaporisers.
 
  
 

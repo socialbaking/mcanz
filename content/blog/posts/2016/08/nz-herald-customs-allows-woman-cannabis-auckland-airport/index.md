@@ -12,7 +12,7 @@ tags:
   - "rebecca"
 ---
 
-\[caption id="attachment\_3402" align="alignnone" width="620"\]![Rebecca_reider](http://mcawarenessnz.org/wp-content/uploads/2016/08/rebecca_reider.jpg) Arik Reiss and Rebecca Reider at Auckland International Airport with Reider's medicinal cannabis prescription, which she brought through customs. Photo: Druglawed / Facebook\[/caption\]
+\[caption id="attachment\_3402" align="alignnone" width="620"\]![Rebecca_reider](/wp-content/uploads/2016/08/rebecca_reider.jpg) Arik Reiss and Rebecca Reider at Auckland International Airport with Reider's medicinal cannabis prescription, which she brought through customs. Photo: Druglawed / Facebook\[/caption\]
 
 Customs gave the all-clear to a woman who subsequently brought an ounce of cannabis into the country.
 

@@ -10,7 +10,7 @@ tags:
   - "sativex"
 ---
 
-\[caption id="attachment\_2565" align="alignnone" width="750"\]![David Clendon with Alisha Butt](http://mcawarenessnz.org/wp-content/uploads/2016/02/12711184_974159389321171_2266415092068974976_o-1024x768.jpg) David Clendon with Alisha Butt\[/caption\]
+\[caption id="attachment\_2565" align="alignnone" width="750"\]![David Clendon with Alisha Butt](/wp-content/uploads/2016/02/12711184_974159389321171_2266415092068974976_o-1024x768.jpg) David Clendon with Alisha Butt\[/caption\]
 
 A Northland family believe a lack of funding for medicinal marijuana is preventing people from applying for permission to use the drug.
 

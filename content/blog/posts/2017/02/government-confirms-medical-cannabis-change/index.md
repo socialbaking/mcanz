@@ -12,7 +12,7 @@ tags:
   - "nz-government"
 ---
 
-\[caption id="attachment\_3701" align="alignleft" width="480"\]![](http://mcawarenessnz.org/wp-content/uploads/2017/02/Govt-confirms-MC-change.jpg) Cannabis law reformists during their protest at Parliament, Wellington. 7 February 2017 New Zealand Herald Photograph by Mark Mitchell\[/caption\]
+\[caption id="attachment\_3701" align="alignleft" width="480"\]![](/wp-content/uploads/2017/02/Govt-confirms-MC-change.jpg) Cannabis law reformists during their protest at Parliament, Wellington. 7 February 2017 New Zealand Herald Photograph by Mark Mitchell\[/caption\]
 
  
 

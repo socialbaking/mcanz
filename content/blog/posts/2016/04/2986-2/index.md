@@ -11,7 +11,7 @@ tags:
   - "northern-advocate"
 ---
 
-\[caption id="attachment\_2987" align="alignright" width="546"\]![Grey Power's Beverley Aldridge and Kathleen Pattinson want cannabis legalised, despite never having used the drug. Photo / John Stone](http://mcawarenessnz.org/wp-content/uploads/2016/04/greypower.jpg) Grey Power's Beverley Aldridge and Kathleen Pattinson want cannabis legalised, despite never having used the drug. Photo / John Stone\[/caption\]
+\[caption id="attachment\_2987" align="alignright" width="546"\]![Grey Power's Beverley Aldridge and Kathleen Pattinson want cannabis legalised, despite never having used the drug. Photo / John Stone](/wp-content/uploads/2016/04/greypower.jpg) Grey Power's Beverley Aldridge and Kathleen Pattinson want cannabis legalised, despite never having used the drug. Photo / John Stone\[/caption\]
 
 A group of rebellious Northland retirees are the latest to throw their weight behind the legalise cannabis movement, saying they want to have the choice of dying pain-free.
 

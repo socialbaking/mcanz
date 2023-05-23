@@ -17,7 +17,7 @@ tags:
   - "tumor"
 ---
 
-\[caption id="attachment\_4800" align="alignright" width="300"\]![](https://mcawarenessnz.org/wp-content/uploads/2018/06/Elyse-300x300.jpg) So far, Elyse has beaten the odds and is nearly 5 years old, she is also on the largest dose of a 1:1 strength product of any patient in NZ.\[/caption\]
+\[caption id="attachment\_4800" align="alignright" width="300"\]![](/wp-content/uploads/2018/06/Elyse-300x300.jpg) So far, Elyse has beaten the odds and is nearly 5 years old, she is also on the largest dose of a 1:1 strength product of any patient in NZ.\[/caption\]
 
 Article by Casey Johnson, Mother to Elyse.
 
@@ -33,7 +33,7 @@ Because Elyse was to have no radiation treatment, the oncologist gave her a shor
 
 Once we were home making the most of our time we started researching and following other stories overseas and came across medicinal cannabis and some other natural treatments.
 
-\[caption id="attachment\_4801" align="alignright" width="300"\]![](https://mcawarenessnz.org/wp-content/uploads/2018/06/Survival-Chart1-300x199.png) Despite 40 years of progress on most cancers, DIPG remains stubbornly fatal, with less than 1% of patients surviving to the 5 year mark.\[/caption\]
+\[caption id="attachment\_4801" align="alignright" width="300"\]![](/wp-content/uploads/2018/06/Survival-Chart1-300x199.png) Despite 40 years of progress on most cancers, DIPG remains stubbornly fatal, with less than 1% of patients surviving to the 5 year mark.\[/caption\]
 
  
 
@@ -43,7 +43,7 @@ Elyse has just had her third MRI scan at Starship hospital in a row which has sh
 
 Just the other day Child Cancer Foundation (CCF) came to see us, they made the point that times are
 
-\[caption id="attachment\_4811" align="alignnone" width="640"\]![](https://mcawarenessnz.org/wp-content/uploads/2018/06/progression-1-1024x964.jpg) With virtually 0 chance of survival, the family have resolved to log the progression of disease against alternative treatments, with a glimmer of hope in recent scans as the tumor shrinks slightly.\[/caption\]
+\[caption id="attachment\_4811" align="alignnone" width="640"\]![](/wp-content/uploads/2018/06/progression-1-1024x964.jpg) With virtually 0 chance of survival, the family have resolved to log the progression of disease against alternative treatments, with a glimmer of hope in recent scans as the tumor shrinks slightly.\[/caption\]
 
 changing with how medicinal cannabis is perceived both in the medical industry and in the public eye. Everyone around us and following her on social media can see how much she is improving. CCF made a strong point of reaching out to the community and higher ups getting help. This is a medicine that treats the problem and doesn’t just mask the symptoms, and it should be free or at least subsidized! Elyse is now trying to eat again, going back to kindy and is being fitted for a standing frame. Her pediatrician has even moved her to her regular patient list and doesn’t feel she needs to have regular check-ups because of how well she is doing.
 
@@ -55,4 +55,4 @@ Our fight is not over yet. Elyse still has a long way to go and she is still cla
 
 [https://givealittle.co.nz/cause/supporting-elyse](https://givealittle.co.nz/cause/supporting-elyse)
 
-If you or someone you know would like assistance with legal access, please go to our [applications page](https://mcawarenessnz.org/applications/) and call us.
+If you or someone you know would like assistance with legal access, please go to our [applications page](/applications/) and call us.

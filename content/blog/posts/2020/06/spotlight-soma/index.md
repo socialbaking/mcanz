@@ -12,7 +12,7 @@ tags:
   - "soma"
 ---
 
-## ![](https://mcanz.org.nz/wp-content/uploads/2022/04/soma-logo.png)
+## ![](/wp-content/uploads/2022/04/soma-logo.png)
 
 ## Q1. Who are you, where are you based and what do you do?
 

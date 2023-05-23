@@ -13,7 +13,7 @@ tags:
 
 Dear Politicians, Parliamentarians, Health Providers, Doctors and Nurses Approximately 5 years ago, at the age of 45, I was diagnosed with a rare, untreatable, incurable auto immune disease that was attacking my kidneys and I was told take these medications for pain relief, these medications to slow down the protein leaking into your system, and these pills to control your blood pressure and inject yourself with this stuff to help with the anemia that you are also suffering with as a result. We will monitor you and maybe you will get a transplant, if one becomes available otherwise you will have to go on dialysis, keep positive and all the best.
 
-\[caption id="attachment\_4258" align="alignright" width="674"\]![](http://mcawarenessnz.org/wp-content/uploads/2017/10/Karen-Sim.jpg) Karen receiving treatment at Wellington Hospital.\[/caption\]
+\[caption id="attachment\_4258" align="alignright" width="674"\]![](/wp-content/uploads/2017/10/Karen-Sim.jpg) Karen receiving treatment at Wellington Hospital.\[/caption\]
 
 After three odd years of declining health and increasing symptoms and limited assistance through the health system I gave up the pharmaceuticals, took control of my health, left my job, moved and was committed to looking at other options. Cannabis and I had had a great social relationship for years and I was committed to dive into the medicinal side and give it my best shot.
 

@@ -21,7 +21,7 @@ HANNAH MCLEOD
 
 Last updated 18:11, January 10 2017
 
-![](http://mcawarenessnz.org/wp-content/uploads/2017/01/terminally-ill-mans-garage-300x169.jpg)
+![](/wp-content/uploads/2017/01/terminally-ill-mans-garage-300x169.jpg)
 
 STEVE DIPAOLA/REUTERS
 

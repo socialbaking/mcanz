@@ -14,7 +14,7 @@ An addiction doctor has slammed the rush to legalise medical marijuana for sick
 
 "It shouldn't be used at all on children or adolescents," said Dr Philip Crowley, an addiction medicine specialist at the Royal Adelaide Hospital who will present his views at a medical conference on Friday.
 
-\[caption id="attachment\_3459" align="alignright" width="620"\]![Addiction expert Dr Philip Crowley says "we know cannabis is toxic to the developing brain in kids". Photo: AP](http://mcawarenessnz.org/wp-content/uploads/2016/09/1473925273193-2.jpg) Addiction expert Dr Philip Crowley says "we know cannabis is toxic to the developing brain in kids". Photo: APnts," said Dr Philip Crowley, an addiction medicine specialist at the Royal Adelaide Hospital who will present his views at a medical conference on Friday.\[/caption\]
+\[caption id="attachment\_3459" align="alignright" width="620"\]![Addiction expert Dr Philip Crowley says "we know cannabis is toxic to the developing brain in kids". Photo: AP](/wp-content/uploads/2016/09/1473925273193-2.jpg) Addiction expert Dr Philip Crowley says "we know cannabis is toxic to the developing brain in kids". Photo: APnts," said Dr Philip Crowley, an addiction medicine specialist at the Royal Adelaide Hospital who will present his views at a medical conference on Friday.\[/caption\]
 
  
 
@@ -26,7 +26,7 @@ Proponents argue therapeutic compounds from cannabis provide at least some rel
 
 International trials with sick children have focused on the cannabidiol (CBD) component of the plant, rather than tetrahydrocannabinol (THC – which has psycho-active properties), although some involve a combination of both.
 
-\[caption id="attachment\_3460" align="alignnone" width="620"\]![Medicinal cannabis was recently legalised. Photo: GWPharma](http://mcawarenessnz.org/wp-content/uploads/2016/09/1473925273193-1.jpg) Medicinal cannabis was recently legalised. Photo: GWPharma\[/caption\]
+\[caption id="attachment\_3460" align="alignnone" width="620"\]![Medicinal cannabis was recently legalised. Photo: GWPharma](/wp-content/uploads/2016/09/1473925273193-1.jpg) Medicinal cannabis was recently legalised. Photo: GWPharma\[/caption\]
 
  
 
@@ -42,7 +42,7 @@ About 80 per cent of the 160 children involved in the Israeli trials are clinica
 
 The recent [findings](http://www.seizure-journal.com/article/S1059-1311(16)00005-4/abstract) from the Israeli study, which involves three hospitals, showed nearly 20 per cent of patients experienced a more than 75 per cent reduction in seizures, while 34 per cent reported at least a 50 per cent reduction.
 
-\[caption id="attachment\_3461" align="alignnone" width="620"\]![Premier Daniel Andrews inspects a medical cannabis facility. Photo: Supplied](http://mcawarenessnz.org/wp-content/uploads/2016/09/1473925273193.jpg) Premier Daniel Andrews inspects a medical cannabis facility. Photo: Supplied\[/caption\]
+\[caption id="attachment\_3461" align="alignnone" width="620"\]![Premier Daniel Andrews inspects a medical cannabis facility. Photo: Supplied](/wp-content/uploads/2016/09/1473925273193.jpg) Premier Daniel Andrews inspects a medical cannabis facility. Photo: Supplied\[/caption\]
 
 The Victorian Government has recently legalised medical marijuana and started [growing its own crop](http://www.theage.com.au/victoria/medicinal-cannabis-families-have-to-wait-until-2017-to-access-drug-20160419-go9q1r.html), which is expected to be available to children with severe epilepsy in 2017.
 
