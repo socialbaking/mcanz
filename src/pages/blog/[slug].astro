@@ -17,7 +17,7 @@ export async function getStaticPaths() {
     .filter((p) => p.frontmatter.draft !== true)
     .filter(({ frontmatter }) => !frontmatter.external);
 
-    console.log(filteredPosts.map(post => post.slug));
+    //console.log(filteredPosts.map(post => post.slug));
 
   return filteredPosts.map((post) => {
     return { params: { slug: post.slug } };

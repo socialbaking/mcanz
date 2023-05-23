@@ -1,11 +1,11 @@
 // Place any global data in this file.
 // You can import this data from anywhere in your site by using the `import` keyword.
 
-export const SITE_TITLE = "Captain Awesome";
+export const SITE_TITLE = "MCANZ";
 export const SITE_DESCRIPTION =
-  "Welcome to my blog! I write about modern web development.";
-export const TWITTER_HANDLE = "@yourtwitterhandle";
-export const MY_NAME = "Captain Awesome";
+  "Medical Cannabis Awareness New Zealand";
+export const TWITTER_HANDLE = "";
+export const MY_NAME = "";
 
 // setup in astro.config.mjs
 const BASE_URL = new URL(import.meta.env.SITE);

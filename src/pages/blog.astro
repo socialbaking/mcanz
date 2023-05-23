@@ -11,7 +11,7 @@ const posts = await readAll({
   frontmatterSchema: blog,
 });
 
-console.log({ posts: posts.length });
+// console.log({ posts: posts.length });
 
 const sortedPosts = posts
   .filter((p) => p.frontmatter.draft !== true)

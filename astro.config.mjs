@@ -1,6 +1,7 @@
 /* eslint-disable turbo/no-undeclared-env-vars */
 import { defineConfig } from "astro/config";
 import sitemap from "@astrojs/sitemap";
+import vercelStatic from '@astrojs/vercel/static';
 
 /* 
   We are doing some URL mumbo jumbo here to tell Astro what the URL of your website will be.
@@ -29,4 +30,6 @@ export default defineConfig({
   server: { port: SERVER_PORT },
   site: BASE_URL,
   integrations: [sitemap()],
+  output: "static",
+  adapter: vercelStatic(),
 });
