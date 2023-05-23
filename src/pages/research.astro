@@ -11,9 +11,10 @@ const posts = await readAll({
   frontmatterSchema: blog,
 });
 
-// console.log({ posts: posts.length });
+console.log(posts.at(0), posts.at(1));
 
 const sortedPosts = posts
+  .filter((p) => p.frontmatter?.categories?.includes("research"))
   .filter((p) => p.frontmatter.draft !== true)
   .sort(
     (a, b) =>
@@ -23,7 +24,7 @@ const sortedPosts = posts
 ---
 
 <PageLayout>
-  <PageMeta title={`Blog | ${SITE_TITLE}`} slot="meta" />
+  <PageMeta title={`Research | ${SITE_TITLE}`} slot="meta" />
   <section slot="main">
     <ul>
       {
@@ -35,9 +36,6 @@ const sortedPosts = posts
             month: "short",
             day: "numeric",
           });
-          const type = (
-            post.frontmatter?.categories?.includes("research") ? "research" : "blog"
-          )
           return (
             <li class="post">
               <div class="title">
@@ -52,7 +50,7 @@ const sortedPosts = posts
                     />
                   </a>
                 ) : (
-                  <a href={`/${type}/${post.slug}`}>{post.frontmatter.title}</a>
+                  <a href={`/research/${post.slug}`}>{post.frontmatter.title}</a>
                 )}
               </div>
               <div class="publish-date">

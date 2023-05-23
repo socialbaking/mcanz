@@ -21,7 +21,7 @@ const { content, frontmatter, ogImageAbsoluteUrl } = await getPost(slug);
     title={frontmatter.title}
     description={frontmatter.external ? undefined : frontmatter.description}
     publishDate={frontmatter.date.toISOString()}
-    pagePath={`/blog/${slug}`}
+    pagePath={`/research/${slug}`}
     ogImageAbsoluteUrl={ogImageAbsoluteUrl}
     slot="meta"
   />
