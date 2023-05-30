@@ -1,0 +1,24 @@
+---
+import PageMeta from "../components/PageMeta.astro";
+import PageLayout from "../layouts/PageLayout.astro";
+import Intro from "../components/Intro.astro";
+import { SITE_TITLE } from "../config";
+---
+
+<PageLayout>
+  <PageMeta title={`${SITE_TITLE}`} slot="meta" />
+  <Fragment slot="main">
+    <ul class="links">
+        <li>
+            <a href="/public-domain/Medical-Device-with-Utensil-310523.pdf" target="_blank">Use of Approved Medical Cannabis Vapourisers with glassware/utensils</a>
+        </li>
+    </ul>
+  </Fragment>
+</PageLayout>
+
+<style>
+
+  ul.links {
+    list-style-type: none;
+  }
+</style>
