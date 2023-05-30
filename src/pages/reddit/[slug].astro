@@ -1,0 +1,29 @@
+---
+import { readOne, readAll } from "../../lib/markdoc/read";
+import { blog } from "../../lib/markdoc/frontmatter.schema";
+import Renderer from "../../components/Renderer.astro";
+import BlogPostMeta from "../../components/BlogPostMeta.astro";
+import ContentLayout from "../../layouts/ContentLayout.astro";
+import { SITE_URL } from "../../config";
+import { getRedditSlugs, getRedditPost } from "../../lib/reddit";
+
+export async function getStaticPaths() {
+  return getRedditSlugs();
+}
+
+const { slug } = Astro.params;
+
+const { content, frontmatter, ogImageAbsoluteUrl } = await getRedditPost(slug);
+---
+
+<ContentLayout title={frontmatter.title} date={frontmatter.date}>
+  <BlogPostMeta
+    title={frontmatter.title}
+    description={frontmatter.external ? undefined : frontmatter.description}
+    publishDate={frontmatter.date.toISOString()}
+    pagePath={`/reddit/${slug}`}
+    ogImageAbsoluteUrl={ogImageAbsoluteUrl}
+    slot="meta"
+  />
+  <Renderer content={content} slot="content" />
+</ContentLayout>
