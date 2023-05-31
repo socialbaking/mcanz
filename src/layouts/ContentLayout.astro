@@ -37,11 +37,12 @@ const formattedDate = new Date(date).toLocaleDateString("en-us", {
   <body class="text-text-body bg-bg-body max-w-3xl mx-auto px-4 sm:px-8">
     <Header />
     <main id="main">
-      <section class="blog-post">
+      <section class="post">
         <h1 class="title">{title}</h1>
         <time class="publish-date">{formattedDate}</time>
         <slot name="alert" />
         <slot name="content" />
+        <slot name="license" />
       </section>
     </main>
     <Footer />
