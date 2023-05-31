@@ -14,7 +14,8 @@ const baseSchema = z.object({
   }),
   categories: z.array(z.string()).default([]),
   tags: z.array(z.string()).default([]),
-  url: z.optional(z.string()).default("")
+  url: z.optional(z.string()).default(""),
+  community: z.optional(z.string()).default("")
 });
 
 /*

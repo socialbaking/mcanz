@@ -6,6 +6,7 @@ categories:
 tags:
 - "community"
 url: "https://www.reddit.com/r/MedicalCannabisNZ/comments/105m52m/guide_to_medical_cannabis_in_aotearoa_new_zealand/?utm_source=share&utm_medium=web2x&context=3"
+community: "r/MedicalCannabisNZ"
 ---
 
 # The process
