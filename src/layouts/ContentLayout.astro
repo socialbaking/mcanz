@@ -40,6 +40,7 @@ const formattedDate = new Date(date).toLocaleDateString("en-us", {
       <section class="blog-post">
         <h1 class="title">{title}</h1>
         <time class="publish-date">{formattedDate}</time>
+        <slot name="alert" />
         <slot name="content" />
       </section>
     </main>

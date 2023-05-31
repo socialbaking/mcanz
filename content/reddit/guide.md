@@ -5,6 +5,7 @@ categories:
 - "reddit"
 tags:
 - "community"
+url: "https://www.reddit.com/r/MedicalCannabisNZ/comments/105m52m/guide_to_medical_cannabis_in_aotearoa_new_zealand/?utm_source=share&utm_medium=web2x&context=3"
 ---
 
 # The process
@@ -47,10 +48,10 @@ Questions? Book with one of the clinics below, or checkout an AMA!
 
 # Pharmacies with medical cannabis experience
 
-- https://www.wellworks.co.nz
-- https://www.ngahuapharmacy.co.nz
-- https://www.unichem.co.nz
-- https://www.chemistwarehouse.co.nz
+- [www.wellworks.co.nz](https://www.wellworks.co.nz)
+- [www.ngahuapharmacy.co.nz](https://www.ngahuapharmacy.co.nz)
+- [www.unichem.co.nz](https://www.unichem.co.nz)
+- [www.chemistwarehouse.co.nz](https://www.chemistwarehouse.co.nz)
 
 # Up to date list of Ministry of Health approved medical cannabis products
 
@@ -70,7 +71,7 @@ Users can submit prices by commenting on the spreadsheet. **Please do not commen
 
 If you're looking to have more discussion, you can also join the official r/MedicalCannabisNZ discord
 
-Invite: https://discord.gg/UFEVXD7TA6
+Invite: [discord.gg/UFEVXD7TA6](https://discord.gg/UFEVXD7TA6)
 
 # Vaporiser Boil Chart
 

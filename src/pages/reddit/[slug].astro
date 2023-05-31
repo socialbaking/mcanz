@@ -6,6 +6,7 @@ import BlogPostMeta from "../../components/BlogPostMeta.astro";
 import ContentLayout from "../../layouts/ContentLayout.astro";
 import { SITE_URL } from "../../config";
 import { getRedditSlugs, getRedditPost } from "../../lib/reddit";
+import { XMarkIcon } from '@heroicons/react/20/solid'
 
 export async function getStaticPaths() {
   return getRedditSlugs();
@@ -25,5 +26,13 @@ const { content, frontmatter, ogImageAbsoluteUrl } = await getRedditPost(slug);
     ogImageAbsoluteUrl={ogImageAbsoluteUrl}
     slot="meta"
   />
+  <div slot="alert" class="rounded-md relative isolate flex items-center gap-x-6 overflow-hidden bg-gray-50 px-6 py-2.5 sm:px-3.5 justify-center mb-5 bg-gray-0--">
+        <p class="text-sm leading-6 text-gray-900">
+          This content is archived from the social media group "r/MedicalCannabisNZ" on Reddit.{' '}
+          <a href={frontmatter.url} target="_blank" class="whitespace-nowrap font-semibold">
+            View the original post&nbsp;<span aria-hidden="true">&rarr;</span>
+          </a>
+        </p>
+      </div>
   <Renderer content={content} slot="content" />
 </ContentLayout>

@@ -5,7 +5,7 @@ import Heading from "./ui/Heading.astro";
 <section class="wrapper">
   <Heading
     as="h1"
-    class="name gradient-text gradient-color outline outline-color"
+    class="name gradient-text gradient-color outline-header outline-header-color"
   >
     Medical Cannabis Awareness New Zealand
   </Heading>
@@ -21,7 +21,7 @@ import Heading from "./ui/Heading.astro";
     /* padding-bottom: 1rem; */
   }
 
-  .outline {
+  .outline-header {
     -webkit-text-fill-color: transparent;
     -webkit-text-stroke: 0.075rem var(--outline-color);
   }
@@ -32,7 +32,7 @@ import Heading from "./ui/Heading.astro";
     --gradient-text-to: rgb(65, 250, 194);
   }
 
-  .outline-color {
+  .outline-header-color {
     --outline-color: var(--text-heading);
   }
 
@@ -42,7 +42,7 @@ import Heading from "./ui/Heading.astro";
         --gradient-text-via: rgb(85, 189, 230);
         --gradient-text-to: rgb(65, 250, 194);
     }
-    .outline-color {
+    .outline-header-color {
       --outline-color: transparent;
     }
   }
