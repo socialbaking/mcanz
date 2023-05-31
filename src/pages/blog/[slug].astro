@@ -6,6 +6,7 @@ import BlogPostMeta from "../../components/BlogPostMeta.astro";
 import ContentLayout from "../../layouts/ContentLayout.astro";
 import { SITE_URL } from "../../config";
 import { getPostSlugs, getPost } from "../../lib/posts";
+import License from "../../components/License.astro";
 
 export async function getStaticPaths() {
   return getPostSlugs();
