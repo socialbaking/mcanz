@@ -3,7 +3,7 @@
 
 export const SITE_TITLE = "MCANZ";
 export const SITE_DESCRIPTION =
-  "Medical Cannabis Awareness New Zealand";
+  "Medical Cannabis Aotearoa New Zealand";
 export const TWITTER_HANDLE = "";
 export const MY_NAME = "";
 

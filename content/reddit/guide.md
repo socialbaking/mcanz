@@ -33,7 +33,7 @@ Finally remember: It is easier than you think... and this is a constantly changi
 
 # Cannabis Education
 
-Checkout [Medical Cannabis Awareness New Zealand](https://mcanz.org.nz) for a large range of educational content.
+Checkout [Medical Cannabis Aotearoa New Zealand](https://mcanz.org.nz) for a large range of educational content.
 
 # Medical Cannabis Specialist Clinics
 
