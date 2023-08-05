@@ -64,7 +64,7 @@ Other products are available outside of this list
 
 Pricing can change overnight, generally prices have been falling over time.
 
-There is currently a reasonably up to date [spreadsheet available with pricing](https://docs.google.com/spreadsheets/d/1rXMYOe_Yz1h7sct5DZfPC4cHH8h8IQsej_zSuXWYMMM/edit?usp=sharing)
+There is currently a reasonably up to date [spreadsheet available with pricing](https://mcanz.org.nz/pricing)
 
 Users can submit prices by commenting on the spreadsheet. **Please do not comment on this post about pricing :)**
 
