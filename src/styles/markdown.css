@@ -47,4 +47,8 @@ h6+* {
 	margin-top: 0;
 }
 
+ul {
+	list-style: outside disc;
+}
+
 /* ------ MARKDOWN STYLES - END ------ */
