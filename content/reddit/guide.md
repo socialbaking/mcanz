@@ -1,6 +1,6 @@
 ---
 title: "Guide to Medical Cannabis in Aotearoa New Zealand"
-date: 2023-01-07
+date: 2023-08-11
 categories:
 - "reddit"
 tags:
@@ -9,107 +9,173 @@ url: "https://www.reddit.com/r/MedicalCannabisNZ/comments/105m52m/guide_to_medic
 community: "r/MedicalCannabisNZ"
 ---
 
-# The process
+Medical Cannabis is available in New Zealand.
 
-Generally GPs in NZ aren't all yet equipped with the knowledge or time to prescribe Medical Cannabis, its usually a suggestion directly from GPs to see a specialist clinic.
+The first step is booking your appointment with a doctor.
 
-Specialist clinics have been the easiest for most to work with, however some still have good luck with their GP, so if you're in for an appointment, do ask and see if they are able to help.
+There are a few paths you can take, with the recommended one being a medical cannabis specialist clinic paired with a pharmacy that has prior experience with medical cannabis dispensing.
 
-Specialist clinics have a huge amount of previously built up knowledge which will help them work with your specifics.
+In all cases, the prescribing process is:
 
-Cannabis is prescribed for a range of conditions, you most likely qualify, and if you're reading this, well, there you go.
+- An initial consult with a doctor.
+- A follow-up consult with a doctor or nurse:
+    - About 1 month after your first product is dispensed
+- Continued follow-up consults with a doctor or nurse:
+    - Every 3 months if prescribed THC, or
+    - Every 6 months if prescribed CBD only
 
-We have all been on a journey towards this point, we all have some kind of history that lead us to questioning if cannabis can help. Be honest with your doctors, if you're a current cannabis consumer, explain how it helps you now, if you're looking into cannabis for the first time, explain how you believe it's going to improve your life.
+When discussing medicine with your doctor or nurse, you should indicate your [choice of pharmacy](https://www.tewhatuora.govt.nz/assets/Our-health-system/Digital-health/eMedicines-and-the-New-Zealand-e-Prescription-Service/letter-on-patient-choice-of-pharmacy-jun20.pdf)
+to ensure no delays in the dispensing process.
 
-The first step is booking your appointment, the doctors and nurses all have a wealth of information ready to share with you. If you have questions come to mind leading up to your appointment, be sure to write them down and ask it!
+Your clinic is only able to offer repeats of your medicine for your pharmacy of choice once you have your first follow-up.
 
-Doctors can either approve you for medical cannabis, and write you a script, or they might not. This will be completely up to their discretion.
+Some clinics charge a fee to have your prescription sent to your pharmacy of choice, typically when they have an attached dispensary service or associated pharmacies.
 
-If you have been approved, if you're with a specialist clinic they may offer to provide you the products directly, or you will be able to get your prescription sent to an ordinary pharmacy. If you're working with your GP, they will be able to send your script to their normal pharmacy, or, mention one of the pharmacies listed below all who have a long history of working with medical cannabis patients.
+Most clinics charge a fee to change your agreed treatment plan between consults, as the changes require additional clinical team oversight and processes.
 
-Pharmacies mostly offer either a pickup, or courier service.
+## Medical Cannabis Specialist
 
-Finally remember: It is easier than you think... and this is a constantly changing landscape.
+Specialist cannabis focused clinics tend to be more familiar with the process and have an existing range of experience with medical cannabis.
 
-# Cannabis Education
+It is easiest to talk with medical cannabis specialists about cannabis, as they understand upfront where you are coming from,
+and have context around the range of patient journeys.
 
-Checkout [Medical Cannabis Aotearoa New Zealand](https://mcanz.org.nz) for a large range of educational content.
+Any question you have about cannabis, a specialist should be able to give you that answer there and then
 
-# Medical Cannabis Specialist Clinics
+Some things that should come up in your conversation with a specialist:
 
-Questions? Book with one of the clinics below, or checkout an AMA!
+- Your prior cannabis usage
+- What you are looking for in your journey
+- What might work best for you
+- In depth treatment plans, and daily dosing schedules
+- Interactions with other medication
+- Devices and preparations
+- Sensitization protocols & tolerance breaks
+- Advice on inhalation, sublingual, oral, edible dosing
+- And more...!
 
-- [Cannabis Clinic](https://cannabisclinic.co.nz/) - [AMA](https://www.reddit.com/r/MedicalCannabisNZ/comments/11marn3/ama_i_am_dr_clare_halford_from_cannabis_clinic_a/)
-- [CannaPlus](https://cannaplus.co.nz/) - [AMA](https://www.reddit.com/r/MedicalCannabisNZ/comments/zs5zoe/ama_i_am_dr_afraz_adam_from_cannaplus_a_medical/)
+If you have a question about cannabis, a medical cannabis specialist is the best person to answer.
+
+### Medical Cannabis Specialist Clinics
+
+- [**Cannabis Clinic**](https://cannabisclinic.co.nz/) - [I am Dr Clare Halford from Cannabis Clinic, a Medical Cannabis Doctor, and Ben Whitson, a Cannabis Specialist Nurse. Ask us anything!](https://www.reddit.com/r/MedicalCannabisNZ/comments/11marn3/ama_i_am_dr_clare_halford_from_cannabis_clinic_a/)
+- [**CannaPlus**](https://cannaplus.co.nz/) - [I am Dr Afraz Adam from CannaPlus, a Medical Cannabis Doctor. Ask me anything!](https://www.reddit.com/r/MedicalCannabisNZ/comments/zs5zoe/ama_i_am_dr_afraz_adam_from_cannaplus_a_medical/)
+- [**Cannabis Doctor**](https://www.cannabisdoctor.nz/)
+- [**Dr Gulbransen GP**](https://www.cannabiscare.nz/)
 - [The Pain Clinic](https://thepainclinic.co.nz/)
-- [Green Doctors](https://greendoctors.co.nz/)
-- [Dr Gulbransen GP](https://www.cannabiscare.nz/)
 - [Koru Medical Clinic](https://korumedical.co.nz)
 - [RestoreMe](https://www.restoremeclinic.co.nz/)
+- [Green Doctors](https://greendoctors.co.nz/)
 
-# Pharmacies with medical cannabis experience
+### Dispensing with a Specialist Clinic
 
-- [www.wellworks.co.nz](https://www.wellworks.co.nz)
-- [www.ngahuapharmacy.co.nz](https://www.ngahuapharmacy.co.nz)
-- [www.unichem.co.nz](https://www.unichem.co.nz)
-- [www.chemistwarehouse.co.nz](https://www.chemistwarehouse.co.nz)
+[You can have your prescription dispensed anywhere you like](https://www.tewhatuora.govt.nz/assets/Our-health-system/Digital-health/eMedicines-and-the-New-Zealand-e-Prescription-Service/letter-on-patient-choice-of-pharmacy-jun20.pdf), however some specialist clinics offer a combined dispensary service.
 
-# Up to date list of Ministry of Health approved medical cannabis products
+We recommend one of the [pharmacies with medical cannabis experience](#pharmacies-with-medical-cannabis-experience) listed below.
+
+## General Practitioners (GP)
+
+A GP can prescribe medical cannabis in New Zealand.
+
+Not all GPs in New Zealand are equipped with the knowledge or time to prescribe
+medical cannabis, they may suggest visiting a specialist clinic for this purpose.
+
+Some specialist clinics like [Cannabis Clinic](https://cannabisclinic.co.nz/) offer to provide education for your GP so
+you can get the best outcome and the GP is able to use their newfound knowledge to offer a wider range of treatment plans for more patients.
+
+### Dispensing with a Specialist
+
+A GP clinic may have an attached pharmacy and dispensary service, but they may not be equipped either to
+dispense medical cannabis products with care and at a [reasonable price](https://mcanz.org.nz/pricing),
+we recommend one of the [pharmacies with medical cannabis experience](#pharmacies-with-medical-cannabis-experience) listed below.
+
+Your GP can also reach out to the likes of Nga Hua for help with the prescribing and dispensing process.
+
+## Oncologist or Other Specialist
+
+If you are working with an oncologist or other specialist doctor, they may be able to help with a medical cannabis prescription,
+and may be the best option as they should have deep insight into your health journey.
+
+Though as with GPs, not all specialists are equipped with the knowledge or time to prescribe medical cannabis.
+
+### Dispensing with a Specialist
+
+Specialists send prescriptions to your [choice of pharmacy](https://www.tewhatuora.govt.nz/assets/Our-health-system/Digital-health/eMedicines-and-the-New-Zealand-e-Prescription-Service/letter-on-patient-choice-of-pharmacy-jun20.pdf) for dispensing.
+
+We recommend one of the [pharmacies with medical cannabis experience](#pharmacies-with-medical-cannabis-experience) listed below.
+
+Your specialist can reach out to the likes of Nga Hua for help with the prescribing and dispensing process.
+
+# Dispensing
+
+Most pharmacies offer either a pickup, or courier service.
+
+## Pharmacies with medical cannabis experience
+
+Some pharmacies have worked closely with their medical cannabis patients, these pharmacies are known to provide quality service and advice around medical cannabis, and availability.
+
+They have proved themselves in this space and have consistently shown the community amazing value at fair prices.
+
+- [Nga Hua Pharmacy](https://www.ngahuapharmacy.co.nz)
+- [Wellworks](https://www.wellworks.co.nz)
+
+## Other pharmacies with good pricing
+
+- [Unichem](https://www.unichem.co.nz)
+- [Chemist Warehouse](https://www.chemistwarehouse.co.nz)
+
+# Up-to-date list of Ministry of Health approved medical cannabis products
 
 [Medicinal cannabis products that meet the minimum quality standard](https://www.health.govt.nz/our-work/regulation-health-and-disability-system/medicinal-cannabis-agency/medicinal-cannabis-agency-information-health-professionals/medicinal-cannabis-products-meet-minimum-quality-standard)
 
-Other products are available outside of this list
+Additional products are available outside this list.
 
 # Product Pricing
 
 Pricing can change overnight, generally prices have been falling over time.
 
-There is currently a reasonably up to date [spreadsheet available with pricing](https://mcanz.org.nz/pricing)
+There is currently a reasonably up-to-date [pricing guide available](https://mcanz.org.nz/pricing)
 
-Users can submit prices by commenting on the spreadsheet. **Please do not comment on this post about pricing :)**
+# Dry Herb Vaporisers
+
+If you're looking to use inhalation as a method of dosing your medical cannabis, you'll want to reach out for a dry herb vaporiser.
+
+These can be purchased from many stores in New Zealand, for example:
+
+- [Medivape](https://medivape.co.nz/collections/vaporisers)
+- [Chill Kiwi](https://www.chillkiwi.co.nz/brands/)
+- [Puha Express](https://puhaexpress.co.nz/)
+- [Helenskinz](https://www.helenskinz.co.nz/collections/all-herbal-vaporizers)
+- [Cosmic](https://www.cosmicnz.co.nz/search?q=vaporizer)
+- [Greenstone Dispensary](https://greenstonedispensary.nz/collections/vapes-and-dry-herb)
+- [The DaberHashery](https://thedaberhashery.co.nz/collections/vape)
+- [High Tech Vaporizers](https://hightechvaporizers.com.au/) (Not Local, Ball Vapes)
+- [Cannabis Hardware](https://www.cannabishardware.com/) (Not Local, Ball Vapes)
+
+A typical suggestion for a device is Storz & Bickel Mighty Medic or Medic Plus
+
+## Vaporisers and the Smokefree Environments and Regulated Products Act 1990
+
+[Medicinal cannabis products are excluded from smokefree](https://www.legislation.govt.nz/act/public/1990/0108/latest/DLM223196.html?search=sw_096be8ed81cf4f15_does+not+include+a+medicinal+cannabis+product+within+the+m_25_se&p=1&sr=2#LMS425506)
+
+[Medicinal devices, such as a dry herb vaporiser, are excluded from smokefree](https://www.legislation.govt.nz/act/public/1990/0108/latest/DLM223196.html?search=sw_096be8ed81cf4f15_does+not+include+a+medicinal+cannabis+product+within+the+m_25_se&p=1&sr=2#LMS425506).
+
+See the related section of the [medicines act here related to medical devices](https://www.legislation.govt.nz/act/public/1981/0118/latest/DLM6186051.html?search=sw_096be8ed81d31fdb_medical+device_25_se&p=1)
+
+## Non Approved Vaporisers
+
+A person who possesses a non-medically approved dry herb vaporiser for the purpose of taking their prescribed medicinal cannabis would not breach the Misuse of Drugs Act 1975. This is because they are not using it “for the purpose of the commission of an offence against this Act” (s13(1)(a)). This also applies to a person, who possesses an accessory for the purpose of taking their prescribed medicinal cannabis. For example if you use a vape with an adapter to a bong, that is perfectly legal.
+
+## Smoking Cannabis
+
+Medical cannabis products are not [_intended for smoking_](https://www.legislation.govt.nz/regulation/public/2019/0321/latest/LMS285305.html)
+
+## Vaporiser Boil Chart
+
+Want to know the temperature you should use your vape at? Checkout the [Cannabinoid Boil Chart](https://mcanz.org.nz/public-domain/Cannabinoid-Boil-Chart-31-05-23.pdf)
 
 # Discord
 
-If you're looking to have more discussion, you can also join the official r/MedicalCannabisNZ discord
+If you're looking to have more discussion, you can also join the official Medical Cannabis Aotearoa New Zealand discord
 
 Invite: [discord.gg/UFEVXD7TA6](https://discord.gg/UFEVXD7TA6)
-
-# Vaporiser Boil Chart
-
-Want to know the temperature you should use your vape at? Checkout the [Cannabinoid Boil Chart](https://www.reddit.com/r/MedicalCannabisNZ/comments/zm03kz/cannabinoid_boil_chart_redrawn/)
-
-# Getting around the Reddit community
-
-We have post flairs set up to help explore content (these links seem to only work on desktop/web):
-
-- [Community Posts](https://www.reddit.com/r/MedicalCannabisNZ/?f=flair_name%3A%22Community%22)
-- [Know How Posts & AMAs](https://www.reddit.com/r/MedicalCannabisNZ/?f=flair_name%3A%22Knowledge%22)
-- [Medicine Posts](https://www.reddit.com/r/MedicalCannabisNZ/?f=flair_name%3A%22Medicine%20Related%22)
-- [Food, Drinks, & Recipe Posts](https://www.reddit.com/r/MedicalCannabisNZ/?f=flair_name%3A%22Recipe%22)
-- [Questions (with answers hopefully!)](https://www.reddit.com/r/MedicalCannabisNZ/?f=flair_name%3A%22Question%22)
-- [Clinic Questions](https://www.reddit.com/r/MedicalCannabisNZ/?f=flair_name%3A%22Clinic%20Related%22)
-- [News Articles](https://www.reddit.com/r/MedicalCannabisNZ/?f=flair_name%3A%22News%22)
-- [Accessories, Parts, & Devices](https://www.reddit.com/r/MedicalCannabisNZ/?f=flair_name%3A%22Accessory%20Related%22)
-- [Websites, & Links](https://www.reddit.com/r/MedicalCannabisNZ/?f=flair_name%3A%22Website%22)
-- [Videos, & Live Streams](https://www.reddit.com/r/MedicalCannabisNZ/?f=flair_name%3A%22Video%22)
-- [Success, & Wholesomeness](https://www.reddit.com/r/MedicalCannabisNZ/?f=flair_name%3A%22Success%22)
-
-# Community Polls
-| Question | Most Common Answer |
-|----------|--------------------|
-| [How much Cannabis bud or flower do you usually use per week?](https://www.reddit.com/r/MedicalCannabisNZ/comments/xlwar5/how_much_cannabis_bud_or_flower_do_you_usually/) | ∼7 g per week |
-| [What is the method you most commonly use](https://www.reddit.com/r/MedicalCannabisNZ/comments/xryg39/what_is_the_method_you_most_commonly_use/) |Inhalation - Vaporization Device |
-| [How many times a day do you consume cannabis?](https://www.reddit.com/r/MedicalCannabisNZ/comments/xxw299/how_many_times_a_day_do_you_consume_cannabis/) |1–4 times per day |
-| [How many hits do you take per smoking session?](https://www.reddit.com/r/MedicalCannabisNZ/comments/y3qs7t/how_many_hits_do_you_take_per_smoking_session/) |1–5 hits per session |
-| [What would you like to see change around cannabis in NZ?](https://www.reddit.com/r/MedicalCannabisNZ/comments/yqctam/what_would_you_like_to_see_change_around_cannabis/) |Regulation of recreational cannabis |
-| [Medicinal Cannabis Demographics](https://www.reddit.com/r/MedicalCannabisNZ/comments/yj2rld/medicinal_cannabis_demographics_2/) |IT/Engineering|
-| [How do you consume your Medical Cannabis?](https://www.reddit.com/r/MedicalCannabisNZ/comments/z2b87d/how_do_you_consume_your_medical_cannabis/) |Vaporiser |
-| [How much Cannabis bud or flower do you usually use per week?](https://www.reddit.com/r/MedicalCannabisNZ/comments/1079ffl/how_much_cannabis_bud_or_flower_do_you_usually/) |3–5 grams per week |
-| [Would you home grow if it were legal?](https://www.reddit.com/r/MedicalCannabisNZ/comments/10k01hu/would_you_home_grow_if_it_were_legal/) |Yes |
-| [How many cannabis plants would you grow at once at home if it were legal?](https://www.reddit.com/r/MedicalCannabisNZ/comments/10k03k9/how_many_cannabis_plants_would_you_grow_at_once/) |4 plants |
-| [How do you pay for your medical cannabis?](https://www.reddit.com/r/MedicalCannabisNZ/comments/10k058r/how_do_you_pay_for_your_medical_cannabis/) |Fully out of pocket |
-| [In what year were you first prescribed any form of Medical Cannabis in New Zealand?](https://www.reddit.com/r/MedicalCannabisNZ/comments/10puvo6/in_what_year_were_you_first_prescribed_any_form/) |2022|
-| [If you were first prescribed Medical Cannabis in New Zealand in 2022 or later, when?](https://www.reddit.com/r/MedicalCannabisNZ/comments/10pv0aq/if_you_were_first_prescribed_medical_cannabis_in/) |October, November, or December 2022|
-| [How do you most commonly have your medical cannabis prescription filled?](https://www.reddit.com/r/MedicalCannabisNZ/comments/10pwjbw/how_do_you_most_commonly_have_your_medical/) |Clinic|
-| [How has your cannabis consumption changed compared to before being prescribed Medical Cannabis?](https://www.reddit.com/r/MedicalCannabisNZ/comments/10qq7wx/how_has_your_cannabis_consumption_changed/)|(32%) Increased : (32%) Stayed the same|
-| [Does your partner partake?](https://www.reddit.com/r/MedicalCannabisNZ/comments/10ss8sy/does_your_partner_partake/) |No|
