@@ -55,10 +55,15 @@ const sortedPosts = posts
                   <a href={`/${type}/${post.slug}`}>{post.frontmatter.title}</a>
                 )}
               </div>
-              <div class="publish-date">
-                <time datetime={post.frontmatter.date.toISOString()}>
-                  {formattedDate}
-                </time>
+              <div class="text-right pl-2">
+                  <div class="publish-date">
+                    <time datetime={post.frontmatter.date.toISOString()}>
+                      {formattedDate}
+                    </time>
+                  </div>
+                  <div class="publish-author">
+                    {post.frontmatter.author ? `By ${post.frontmatter.author}` : ""}
+                  </div>
               </div>
             </li>
           );

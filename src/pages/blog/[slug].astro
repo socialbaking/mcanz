@@ -17,7 +17,7 @@ const { slug } = Astro.params;
 const { content, frontmatter, ogImageAbsoluteUrl } = await getPost(slug);
 ---
 
-<ContentLayout title={frontmatter.title} date={frontmatter.date}>
+<ContentLayout title={frontmatter.title} date={frontmatter.date} author={frontmatter.author} url={frontmatter.url}>
   <BlogPostMeta
     title={frontmatter.title}
     description={frontmatter.external ? undefined : frontmatter.description}
@@ -27,5 +27,5 @@ const { content, frontmatter, ogImageAbsoluteUrl } = await getPost(slug);
     slot="meta"
   />
   <Renderer content={content} slot="content" />
-  <License slot="license" />
+  <License slot="license" license={frontmatter.license} />
 </ContentLayout>
