@@ -22,7 +22,7 @@ import License from "../components/License.astro";
 <br />
 <h2 class="text-2xl text-bold">At a glance</h2>
 <br />
-<h3 class="text-xl text-bold">Flower - Median cost per gram</h3>
+<h3 class="text-xl text-bold" id="flower">Flower - Median cost per gram</h3>
 <br />
 <p>
 If you list all the available prices from lowest to highest, the median price is the one that falls right in the center of this list. It's a helpful figure because it gives you a realistic sense of what you might expect to pay, not too influenced by unusually high or low prices.
@@ -56,7 +56,7 @@ If you list all the available prices from lowest to highest, the median price is
 </tbody>
 </table>
 <br />
-<h3 class="text-xl text-bold">Oils</h3>
+<h3 class="text-xl text-bold" id="oil">Oils</h3>
 <p>Cheapest per ml</p>
 <br />
 <table>
@@ -78,21 +78,22 @@ If you list all the available prices from lowest to highest, the median price is
 <br />
 <hr />
 <br />
-<h3 class="text-xl text-bold">Price corrections</h3>
+<h3 class="text-xl text-bold" id="corrections">Price corrections</h3>
 <br />
 <a href="https://forms.gle/SHGQNne8SFJXuvxT7" target="_blank">Please use this form to submit a price update</a>
 <br />
 <br />
-<h3 class="text-xl text-bold">References:</h3>
+<h3 class="text-xl text-bold" id="references">References:</h3>
 <br />
 <ul class="list-disc">
     <li><a  target="_blank" href="https://docs.google.com/document/d/1Ecati2vzbBG8VKKBg0TH9AGj6TCOCcgeMC0oEoALxx4/">Wellworks price sheet link</a></li>
-    <li>Cannabis Clinic Dispensary</li>
-    <li>Pilldrop price sheet (emailed)</li>
-    <li>Community reports</li>
+    <li>Cannabis Clinic Patient Only Dispensary</li>
+    <li>Pilldrop Price Patient Only Sheet</li>
+    <li>Chemist Warehouse Patient Only Price Sheet</li>
+    <li>Community Reports</li>
 </ul>
 <br />
-<p>
+<p id="disclaimer">
     Please note that prices listed on this page are based on statistics only, and are not meant to reflect a quote or cost you will receive at any specific pharmacy.<br />
     <br />
     Where product type is mentioned, it may only be in reference to the main cannabinoid contained in the product, the product may contain other cannabinoids, and also may have different terpene profiles etc.<br />
